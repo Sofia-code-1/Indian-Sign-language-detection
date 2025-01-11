@@ -1,0 +1,3431 @@
+Logging!!!
+First Left hand at 90 degrees
+Thumb is Opened
+Index finger is Opened
+Middle finger is Opened
+Ring finger is Opened
+Little finger is Opened
+HandLandMarks: [[0, 657, 670, 0], [1, 599, 618, -36], [2, 561, 558, -40], [3, 537, 511, -47], [4, 506, 482, -48], [5, 602, 494, 75], [6, 577, 440, 70], [7, 561, 405, 35], [8, 551, 370, 3], [9, 636, 485, 66], [10, 625, 428, 77], [11, 622, 392, 51], [12, 619, 360, 27], [13, 671, 492, 43], [14, 665, 440, 45], [15, 666, 402, 23], [16, 667, 367, 4], [17, 709, 511, 12], [18, 721, 464, 17], [19, 727, 433, 23], [20, 735, 403, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Opened
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 927, 552, 0], [1, 970, 529, 2], [2, 1017, 520, 17], [3, 1052, 533, 29], [4, 1073, 549, 48], [5, 1038, 506, 46], [6, 1091, 497, 50], [7, 1123, 494, 46], [8, 1147, 492, 42], [9, 1041, 533, 46], [10, 1085, 549, 44], [11, 1098, 566, 30], [12, 1103, 575, 21], [13, 1036, 560, 43], [14, 1072, 578, 38], [15, 1064, 584, 31], [16, 1049, 583, 30], [17, 1027, 584, 40], [18, 1050, 597, 49], [19, 1044, 599, 57], [20, 1032, 596, 64]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 910, 509, 0], [1, 954, 480, -6], [2, 998, 474, -9], [3, 1033, 488, -20], [4, 1055, 507, -29], [5, 1028, 480, 34], [6, 1068, 481, 13], [7, 1084, 486, -3], [8, 1099, 490, -16], [9, 1026, 508, 19], [10, 1057, 519, -16], [11, 1035, 515, -32], [12, 1017, 507, -31], [13, 1018, 535, 0], [14, 1035, 546, -26], [15, 1010, 536, -13], [16, 993, 525, 3], [17, 1006, 559, -22], [18, 1017, 566, -19], [19, 999, 556, 4], [20, 986, 546, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 895, 475, 0], [1, 934, 443, 6], [2, 980, 436, 12], [3, 1015, 450, 12], [4, 1034, 466, 12], [5, 1005, 444, 40], [6, 1047, 441, 37], [7, 1066, 439, 33], [8, 1081, 439, 29], [9, 1005, 470, 27], [10, 1041, 474, 10], [11, 1023, 469, 5], [12, 1007, 466, 9], [13, 998, 496, 11], [14, 1024, 497, 2], [15, 1006, 489, 14], [16, 990, 485, 27], [17, 986, 518, -4], [18, 1004, 517, 10], [19, 990, 507, 35], [20, 978, 502, 53]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 888, 454, 0], [1, 922, 423, -51], [2, 966, 405, -65], [3, 1010, 414, -79], [4, 1037, 433, -87], [5, 994, 403, 10], [6, 1037, 397, -21], [7, 1064, 396, -41], [8, 1087, 396, -54], [9, 995, 431, 16], [10, 1029, 437, -53], [11, 999, 438, -73], [12, 974, 435, -64], [13, 992, 457, 12], [14, 1015, 466, -57], [15, 984, 460, -49], [16, 960, 454, -18], [17, 982, 481, 4], [18, 1000, 487, -34], [19, 980, 482, -24], [20, 964, 477, -1]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 885, 442, 0], [1, 919, 412, -64], [2, 961, 399, -83], [3, 1004, 407, -100], [4, 1034, 421, -113], [5, 994, 392, 17], [6, 1037, 386, -20], [7, 1064, 386, -50], [8, 1087, 387, -70], [9, 993, 422, 24], [10, 1028, 432, -63], [11, 997, 433, -98], [12, 969, 428, -93], [13, 986, 449, 20], [14, 1009, 459, -70], [15, 975, 453, -74], [16, 950, 444, -43], [17, 974, 471, 10], [18, 992, 480, -47], [19, 969, 474, -42], [20, 950, 467, -18]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 878, 437, 0], [1, 913, 410, -58], [2, 957, 397, -74], [3, 1000, 405, -92], [4, 1030, 420, -105], [5, 990, 388, 20], [6, 1035, 382, -16], [7, 1063, 382, -43], [8, 1087, 383, -61], [9, 988, 417, 23], [10, 1024, 428, -60], [11, 993, 427, -92], [12, 966, 422, -85], [13, 979, 445, 16], [14, 1005, 455, -69], [15, 971, 448, -67], [16, 946, 440, -33], [17, 965, 468, 4], [18, 989, 477, -47], [19, 967, 471, -35], [20, 948, 464, -6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 428, 0], [1, 905, 402, -70], [2, 951, 390, -89], [3, 995, 397, -107], [4, 1025, 411, -120], [5, 984, 378, 14], [6, 1032, 372, -27], [7, 1061, 374, -58], [8, 1087, 377, -77], [9, 983, 407, 22], [10, 1021, 420, -68], [11, 989, 420, -104], [12, 962, 414, -97], [13, 976, 435, 18], [14, 1003, 449, -70], [15, 970, 441, -70], [16, 946, 432, -37], [17, 963, 458, 8], [18, 984, 470, -43], [19, 962, 463, -33], [20, 944, 454, -6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 420, 0], [1, 904, 391, -48], [2, 950, 378, -61], [3, 994, 387, -77], [4, 1022, 405, -89], [5, 982, 374, 28], [6, 1029, 366, 0], [7, 1057, 366, -22], [8, 1082, 366, -39], [9, 980, 403, 30], [10, 1014, 413, -42], [11, 986, 414, -73], [12, 961, 409, -69], [13, 973, 429, 22], [14, 996, 441, -49], [15, 965, 434, -50], [16, 939, 425, -22], [17, 960, 452, 10], [18, 981, 462, -29], [19, 962, 456, -19], [20, 942, 450, 3]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 414, 0], [1, 899, 387, -78], [2, 946, 372, -89], [3, 990, 379, -96], [4, 1020, 396, -94], [5, 980, 364, 42], [6, 1026, 357, 20], [7, 1053, 356, 0], [8, 1079, 357, -14], [9, 979, 394, 64], [10, 1012, 406, -11], [11, 980, 406, -46], [12, 956, 401, -40], [13, 972, 422, 70], [14, 994, 433, -4], [15, 963, 426, -15], [16, 944, 418, 8], [17, 962, 445, 69], [18, 976, 455, 31], [19, 956, 447, 32], [20, 943, 440, 50]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 858, 410, 0], [1, 897, 381, -74], [2, 942, 369, -88], [3, 985, 375, -99], [4, 1015, 390, -104], [5, 977, 359, 36], [6, 1022, 352, 10], [7, 1048, 350, -12], [8, 1073, 351, -28], [9, 975, 389, 53], [10, 1011, 399, -22], [11, 983, 399, -59], [12, 958, 395, -55], [13, 966, 417, 56], [14, 993, 427, -22], [15, 964, 421, -35], [16, 942, 414, -12], [17, 955, 440, 52], [18, 975, 449, 7], [19, 956, 444, 7], [20, 940, 439, 25]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 858, 407, 0], [1, 897, 379, -63], [2, 942, 366, -74], [3, 984, 374, -83], [4, 1013, 389, -86], [5, 975, 357, 32], [6, 1022, 349, 6], [7, 1049, 347, -13], [8, 1074, 348, -26], [9, 973, 386, 46], [10, 1006, 398, -26], [11, 976, 398, -60], [12, 951, 395, -55], [13, 966, 414, 48], [14, 992, 425, -26], [15, 961, 419, -34], [16, 937, 412, -10], [17, 955, 437, 46], [18, 977, 447, 4], [19, 958, 443, 7], [20, 941, 438, 27]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 856, 407, 0], [1, 898, 380, -60], [2, 944, 367, -74], [3, 988, 374, -89], [4, 1019, 390, -97], [5, 973, 356, 28], [6, 1022, 350, 1], [7, 1051, 349, -21], [8, 1077, 349, -36], [9, 973, 386, 40], [10, 1005, 398, -35], [11, 973, 399, -70], [12, 948, 393, -67], [13, 968, 414, 42], [14, 993, 426, -30], [15, 962, 421, -34], [16, 937, 413, -9], [17, 960, 439, 38], [18, 977, 447, 0], [19, 957, 442, 4], [20, 940, 437, 25]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 859, 411, 0], [1, 897, 383, -61], [2, 944, 370, -79], [3, 986, 378, -95], [4, 1018, 393, -105], [5, 976, 360, 14], [6, 1025, 354, -16], [7, 1053, 352, -38], [8, 1079, 351, -54], [9, 976, 390, 24], [10, 1007, 402, -51], [11, 974, 402, -82], [12, 949, 395, -77], [13, 970, 418, 24], [14, 994, 429, -49], [15, 962, 423, -47], [16, 939, 415, -19], [17, 960, 442, 19], [18, 979, 450, -20], [19, 959, 444, -10], [20, 943, 440, 12]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 410, 0], [1, 903, 381, -60], [2, 947, 369, -71], [3, 990, 377, -80], [4, 1019, 393, -83], [5, 980, 362, 33], [6, 1029, 355, 13], [7, 1057, 354, -2], [8, 1082, 354, -13], [9, 979, 392, 47], [10, 1013, 401, -20], [11, 982, 400, -52], [12, 955, 395, -48], [13, 973, 420, 52], [14, 997, 428, -17], [15, 966, 423, -27], [16, 941, 415, -4], [17, 964, 444, 52], [18, 982, 449, 12], [19, 962, 444, 13], [20, 944, 440, 31]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 413, 0], [1, 907, 385, -57], [2, 952, 372, -67], [3, 993, 380, -77], [4, 1021, 396, -80], [5, 981, 362, 36], [6, 1029, 356, 15], [7, 1056, 355, -2], [8, 1081, 355, -15], [9, 979, 391, 48], [10, 1012, 402, -20], [11, 982, 403, -53], [12, 956, 400, -48], [13, 973, 419, 50], [14, 999, 429, -21], [15, 968, 424, -28], [16, 943, 418, -3], [17, 963, 442, 47], [18, 983, 449, 7], [19, 964, 446, 11], [20, 946, 442, 32]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 412, 0], [1, 904, 384, -64], [2, 949, 371, -76], [3, 992, 378, -88], [4, 1021, 392, -93], [5, 981, 363, 33], [6, 1028, 357, 4], [7, 1055, 355, -19], [8, 1081, 355, -36], [9, 980, 392, 44], [10, 1017, 400, -33], [11, 988, 400, -72], [12, 964, 395, -70], [13, 973, 420, 44], [14, 1000, 429, -37], [15, 968, 423, -48], [16, 943, 415, -24], [17, 962, 443, 39], [18, 983, 451, -8], [19, 963, 446, -6], [20, 945, 442, 13]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 411, 0], [1, 903, 386, -67], [2, 947, 373, -86], [3, 990, 379, -104], [4, 1022, 393, -117], [5, 982, 364, 11], [6, 1028, 357, -25], [7, 1055, 356, -51], [8, 1079, 357, -66], [9, 981, 393, 22], [10, 1016, 401, -60], [11, 986, 401, -92], [12, 962, 398, -85], [13, 974, 420, 21], [14, 999, 429, -60], [15, 967, 424, -60], [16, 944, 417, -29], [17, 963, 444, 15], [18, 984, 452, -30], [19, 965, 446, -21], [20, 949, 442, 3]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 415, 0], [1, 909, 387, -54], [2, 954, 375, -62], [3, 994, 382, -70], [4, 1022, 396, -72], [5, 984, 366, 32], [6, 1030, 360, 9], [7, 1056, 358, -7], [8, 1080, 357, -18], [9, 982, 395, 41], [10, 1017, 405, -28], [11, 987, 407, -57], [12, 960, 404, -49], [13, 975, 422, 41], [14, 999, 432, -31], [15, 967, 428, -36], [16, 942, 421, -9], [17, 964, 444, 36], [18, 985, 453, -3], [19, 965, 450, 2], [20, 947, 446, 25]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 417, 0], [1, 905, 393, -69], [2, 949, 381, -84], [3, 992, 386, -98], [4, 1024, 400, -106], [5, 982, 370, 26], [6, 1029, 362, 0], [7, 1056, 360, -21], [8, 1081, 360, -37], [9, 980, 398, 41], [10, 1013, 409, -33], [11, 987, 410, -71], [12, 963, 405, -70], [13, 973, 424, 44], [14, 998, 437, -36], [15, 967, 431, -47], [16, 943, 421, -25], [17, 963, 446, 42], [18, 983, 455, -9], [19, 961, 450, -9], [20, 942, 445, 9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 871, 418, 0], [1, 909, 390, -68], [2, 952, 379, -79], [3, 994, 386, -87], [4, 1024, 401, -89], [5, 985, 370, 36], [6, 1031, 364, 13], [7, 1058, 362, -4], [8, 1082, 363, -17], [9, 983, 399, 52], [10, 1016, 411, -20], [11, 987, 411, -55], [12, 962, 405, -52], [13, 976, 426, 56], [14, 997, 438, -23], [15, 965, 432, -37], [16, 943, 423, -15], [17, 966, 448, 54], [18, 983, 458, 7], [19, 962, 453, 6], [20, 946, 447, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 414, 0], [1, 907, 388, -52], [2, 951, 377, -62], [3, 993, 384, -73], [4, 1021, 398, -79], [5, 980, 367, 28], [6, 1025, 360, 1], [7, 1053, 359, -20], [8, 1077, 358, -35], [9, 978, 395, 34], [10, 1014, 404, -37], [11, 988, 405, -70], [12, 964, 402, -68], [13, 971, 422, 31], [14, 997, 432, -43], [15, 968, 426, -49], [16, 944, 418, -25], [17, 960, 446, 22], [18, 982, 455, -19], [19, 963, 449, -14], [20, 946, 444, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 413, 0], [1, 906, 387, -58], [2, 950, 376, -68], [3, 992, 385, -79], [4, 1019, 401, -85], [5, 978, 367, 35], [6, 1024, 360, 10], [7, 1052, 358, -11], [8, 1076, 358, -26], [9, 976, 395, 45], [10, 1009, 405, -30], [11, 981, 405, -67], [12, 956, 401, -65], [13, 969, 422, 44], [14, 994, 433, -34], [15, 963, 427, -44], [16, 939, 419, -19], [17, 957, 445, 38], [18, 978, 454, -8], [19, 958, 449, -5], [20, 941, 444, 16]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 415, 0], [1, 901, 389, -61], [2, 944, 376, -78], [3, 986, 383, -95], [4, 1014, 397, -105], [5, 978, 369, 7], [6, 1024, 361, -28], [7, 1051, 360, -54], [8, 1076, 359, -69], [9, 976, 397, 16], [10, 1011, 406, -66], [11, 981, 408, -96], [12, 956, 405, -89], [13, 970, 423, 14], [14, 993, 433, -67], [15, 961, 429, -66], [16, 936, 422, -35], [17, 958, 445, 7], [18, 979, 456, -39], [19, 960, 452, -31], [20, 943, 447, -6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 862, 416, 0], [1, 900, 389, -60], [2, 946, 377, -72], [3, 988, 384, -84], [4, 1017, 400, -90], [5, 977, 369, 23], [6, 1022, 362, -3], [7, 1050, 361, -25], [8, 1075, 360, -39], [9, 976, 398, 33], [10, 1009, 407, -40], [11, 982, 408, -72], [12, 957, 404, -67], [13, 969, 424, 34], [14, 994, 435, -39], [15, 964, 429, -44], [16, 939, 421, -18], [17, 959, 447, 29], [18, 978, 455, -11], [19, 959, 451, -6], [20, 942, 447, 14]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 414, 0], [1, 904, 386, -51], [2, 949, 375, -60], [3, 991, 383, -70], [4, 1019, 400, -76], [5, 977, 370, 36], [6, 1022, 363, 12], [7, 1049, 361, -7], [8, 1073, 361, -21], [9, 975, 397, 43], [10, 1005, 408, -28], [11, 977, 409, -61], [12, 952, 403, -58], [13, 968, 423, 40], [14, 991, 434, -31], [15, 961, 428, -38], [16, 937, 419, -14], [17, 958, 446, 32], [18, 976, 454, -8], [19, 957, 449, -5], [20, 939, 444, 14]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 414, 0], [1, 904, 386, -51], [2, 948, 375, -61], [3, 990, 384, -72], [4, 1017, 400, -77], [5, 975, 368, 31], [6, 1021, 361, 9], [7, 1048, 359, -8], [8, 1073, 359, -21], [9, 973, 395, 39], [10, 1005, 405, -28], [11, 980, 406, -60], [12, 957, 401, -58], [13, 967, 422, 39], [14, 992, 433, -29], [15, 964, 427, -36], [16, 941, 419, -14], [17, 957, 445, 34], [18, 976, 453, -3], [19, 959, 448, -1], [20, 943, 444, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 862, 412, 0], [1, 899, 386, -62], [2, 944, 374, -78], [3, 987, 382, -93], [4, 1017, 399, -102], [5, 974, 367, 18], [6, 1020, 359, -8], [7, 1047, 358, -29], [8, 1072, 358, -44], [9, 973, 395, 30], [10, 1006, 405, -42], [11, 976, 406, -72], [12, 951, 401, -66], [13, 967, 421, 32], [14, 992, 432, -41], [15, 961, 426, -42], [16, 936, 418, -16], [17, 957, 444, 28], [18, 977, 453, -14], [19, 958, 448, -8], [20, 941, 443, 13]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 413, 0], [1, 903, 387, -57], [2, 946, 375, -68], [3, 987, 381, -79], [4, 1015, 398, -83], [5, 975, 367, 32], [6, 1021, 359, 9], [7, 1048, 358, -9], [8, 1072, 359, -22], [9, 974, 395, 44], [10, 1007, 405, -25], [11, 978, 406, -57], [12, 952, 402, -52], [13, 967, 422, 45], [14, 992, 431, -24], [15, 962, 426, -29], [16, 938, 419, -4], [17, 957, 444, 42], [18, 977, 452, 4], [19, 959, 448, 9], [20, 942, 444, 30]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 412, 0], [1, 902, 385, -57], [2, 946, 374, -71], [3, 988, 382, -86], [4, 1017, 399, -96], [5, 975, 369, 27], [6, 1021, 362, 0], [7, 1049, 361, -22], [8, 1073, 361, -38], [9, 973, 396, 34], [10, 1006, 405, -39], [11, 979, 405, -73], [12, 954, 401, -70], [13, 966, 423, 32], [14, 992, 432, -42], [15, 963, 427, -47], [16, 938, 419, -21], [17, 956, 445, 25], [18, 975, 452, -18], [19, 956, 447, -13], [20, 939, 443, 8]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 413, 0], [1, 902, 389, -66], [2, 944, 378, -81], [3, 985, 384, -95], [4, 1014, 398, -102], [5, 977, 369, 28], [6, 1022, 362, 2], [7, 1049, 361, -19], [8, 1073, 362, -34], [9, 975, 397, 42], [10, 1008, 406, -31], [11, 981, 407, -68], [12, 956, 403, -66], [13, 967, 423, 44], [14, 993, 432, -33], [15, 964, 428, -44], [16, 939, 420, -22], [17, 956, 445, 42], [18, 978, 454, -6], [19, 960, 450, -6], [20, 942, 445, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 414, 0], [1, 901, 388, -62], [2, 945, 375, -77], [3, 987, 382, -90], [4, 1016, 399, -97], [5, 978, 369, 20], [6, 1024, 363, -6], [7, 1051, 362, -26], [8, 1075, 362, -40], [9, 977, 398, 33], [10, 1011, 406, -37], [11, 980, 406, -66], [12, 955, 402, -59], [13, 969, 424, 35], [14, 994, 433, -36], [15, 964, 428, -37], [16, 940, 421, -10], [17, 958, 447, 33], [18, 979, 454, -6], [19, 960, 449, 0], [20, 944, 445, 21]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 412, 0], [1, 907, 383, -45], [2, 951, 373, -56], [3, 991, 383, -70], [4, 1018, 400, -80], [5, 981, 369, 26], [6, 1025, 363, 0], [7, 1052, 362, -19], [8, 1075, 362, -34], [9, 978, 397, 28], [10, 1011, 406, -43], [11, 985, 407, -74], [12, 960, 402, -70], [13, 970, 423, 20], [14, 995, 434, -51], [15, 966, 427, -54], [16, 941, 419, -30], [17, 958, 447, 9], [18, 979, 454, -32], [19, 960, 449, -25], [20, 942, 445, -4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 414, 0], [1, 909, 387, -62], [2, 951, 376, -68], [3, 991, 385, -72], [4, 1017, 401, -69], [5, 980, 368, 46], [6, 1025, 362, 30], [7, 1052, 361, 13], [8, 1076, 362, 1], [9, 977, 396, 62], [10, 1011, 404, 0], [11, 983, 405, -34], [12, 958, 403, -32], [13, 969, 423, 68], [14, 995, 431, -1], [15, 965, 427, -16], [16, 941, 420, 2], [17, 958, 446, 68], [18, 978, 453, 27], [19, 960, 449, 24], [20, 943, 445, 40]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 412, 0], [1, 906, 385, -53], [2, 950, 373, -66], [3, 991, 381, -80], [4, 1019, 398, -88], [5, 980, 369, 28], [6, 1025, 363, 4], [7, 1052, 362, -15], [8, 1076, 361, -30], [9, 978, 397, 36], [10, 1008, 405, -32], [11, 983, 405, -67], [12, 959, 400, -66], [13, 971, 423, 35], [14, 995, 432, -35], [15, 968, 426, -42], [16, 943, 418, -21], [17, 960, 445, 29], [18, 978, 452, -13], [19, 961, 448, -12], [20, 944, 443, 4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 412, 0], [1, 907, 383, -52], [2, 952, 372, -62], [3, 993, 382, -73], [4, 1019, 400, -79], [5, 980, 367, 29], [6, 1025, 361, 6], [7, 1052, 360, -12], [8, 1076, 361, -25], [9, 978, 395, 36], [10, 1010, 405, -33], [11, 983, 406, -63], [12, 957, 402, -59], [13, 970, 421, 34], [14, 995, 431, -38], [15, 966, 425, -43], [16, 940, 418, -19], [17, 958, 443, 27], [18, 979, 452, -16], [19, 961, 447, -12], [20, 942, 442, 7]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 409, 0], [1, 904, 383, -59], [2, 948, 372, -73], [3, 991, 381, -89], [4, 1019, 398, -99], [5, 979, 367, 23], [6, 1024, 360, -2], [7, 1051, 359, -23], [8, 1076, 359, -37], [9, 977, 394, 33], [10, 1006, 404, -38], [11, 979, 404, -70], [12, 955, 400, -67], [13, 970, 420, 32], [14, 994, 430, -40], [15, 964, 423, -44], [16, 939, 416, -19], [17, 959, 442, 27], [18, 979, 450, -17], [19, 960, 444, -12], [20, 942, 439, 7]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 409, 0], [1, 906, 382, -50], [2, 951, 371, -61], [3, 993, 380, -73], [4, 1020, 397, -80], [5, 980, 364, 25], [6, 1026, 359, 3], [7, 1053, 358, -14], [8, 1077, 359, -27], [9, 978, 392, 32], [10, 1009, 403, -35], [11, 981, 405, -65], [12, 956, 400, -60], [13, 971, 418, 30], [14, 995, 430, -39], [15, 966, 424, -44], [16, 941, 416, -19], [17, 960, 442, 25], [18, 979, 450, -17], [19, 960, 445, -13], [20, 942, 441, 7]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 410, 0], [1, 906, 382, -51], [2, 951, 370, -63], [3, 992, 379, -76], [4, 1020, 396, -84], [5, 982, 364, 21], [6, 1027, 358, -4], [7, 1053, 358, -25], [8, 1077, 358, -39], [9, 980, 392, 27], [10, 1010, 401, -43], [11, 981, 402, -72], [12, 956, 398, -66], [13, 972, 419, 24], [14, 995, 428, -46], [15, 965, 422, -46], [16, 940, 415, -19], [17, 961, 441, 15], [18, 978, 449, -24], [19, 959, 444, -17], [20, 942, 440, 4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 409, 0], [1, 910, 380, -51], [2, 955, 369, -51], [3, 993, 379, -53], [4, 1018, 395, -48], [5, 984, 363, 56], [6, 1030, 358, 43], [7, 1055, 357, 29], [8, 1078, 357, 18], [9, 982, 392, 68], [10, 1013, 400, 5], [11, 984, 400, -29], [12, 959, 396, -26], [13, 975, 418, 69], [14, 995, 427, 2], [15, 965, 421, -12], [16, 941, 414, 5], [17, 965, 441, 66], [18, 980, 448, 30], [19, 961, 443, 29], [20, 945, 439, 46]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 408, 0], [1, 907, 380, -62], [2, 951, 369, -69], [3, 992, 379, -76], [4, 1019, 395, -76], [5, 980, 363, 52], [6, 1026, 357, 35], [7, 1052, 356, 17], [8, 1076, 357, 4], [9, 977, 391, 66], [10, 1010, 400, -3], [11, 982, 399, -43], [12, 956, 394, -41], [13, 969, 418, 69], [14, 994, 426, -6], [15, 964, 419, -26], [16, 939, 412, -7], [17, 959, 441, 67], [18, 978, 447, 21], [19, 959, 442, 16], [20, 942, 438, 31]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 407, 0], [1, 902, 382, -68], [2, 948, 371, -81], [3, 989, 378, -91], [4, 1018, 392, -94], [5, 980, 362, 26], [6, 1025, 356, 2], [7, 1052, 355, -16], [8, 1076, 356, -29], [9, 977, 390, 42], [10, 1008, 399, -29], [11, 981, 401, -62], [12, 956, 397, -57], [13, 970, 416, 47], [14, 993, 425, -27], [15, 963, 421, -37], [16, 939, 414, -13], [17, 959, 438, 47], [18, 977, 446, 2], [19, 959, 442, 2], [20, 943, 438, 20]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 408, 0], [1, 900, 383, -73], [2, 945, 371, -88], [3, 987, 377, -101], [4, 1018, 391, -107], [5, 979, 361, 27], [6, 1025, 355, 2], [7, 1052, 355, -18], [8, 1076, 356, -32], [9, 975, 389, 44], [10, 1009, 400, -32], [11, 980, 401, -69], [12, 954, 398, -65], [13, 966, 416, 49], [14, 993, 426, -34], [15, 961, 422, -47], [16, 936, 414, -23], [17, 955, 438, 49], [18, 978, 447, -4], [19, 958, 444, -5], [20, 940, 439, 13]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 408, 0], [1, 905, 380, -55], [2, 951, 369, -64], [3, 991, 377, -74], [4, 1018, 392, -78], [5, 980, 363, 35], [6, 1025, 357, 13], [7, 1051, 356, -5], [8, 1075, 357, -18], [9, 977, 391, 44], [10, 1011, 399, -26], [11, 984, 400, -61], [12, 959, 395, -57], [13, 970, 417, 43], [14, 994, 427, -30], [15, 965, 421, -41], [16, 941, 413, -18], [17, 959, 440, 37], [18, 977, 447, -5], [19, 959, 442, -5], [20, 942, 438, 13]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 409, 0], [1, 900, 383, -65], [2, 946, 372, -79], [3, 988, 380, -92], [4, 1018, 394, -98], [5, 975, 362, 19], [6, 1023, 356, -6], [7, 1051, 356, -26], [8, 1076, 357, -39], [9, 975, 391, 34], [10, 1006, 402, -38], [11, 977, 402, -70], [12, 952, 397, -65], [13, 969, 418, 38], [14, 993, 428, -34], [15, 962, 422, -38], [16, 939, 414, -13], [17, 959, 441, 37], [18, 978, 449, -4], [19, 959, 444, 0], [20, 943, 440, 22]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 407, 0], [1, 902, 379, -59], [2, 946, 367, -72], [3, 988, 374, -85], [4, 1017, 387, -92], [5, 978, 362, 26], [6, 1023, 356, 0], [7, 1050, 355, -21], [8, 1074, 355, -35], [9, 976, 390, 36], [10, 1010, 398, -36], [11, 983, 399, -69], [12, 958, 395, -66], [13, 969, 416, 36], [14, 993, 426, -38], [15, 964, 421, -47], [16, 939, 413, -24], [17, 959, 439, 31], [18, 976, 447, -13], [19, 959, 443, -12], [20, 942, 438, 4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 406, 0], [1, 902, 378, -52], [2, 947, 367, -68], [3, 988, 376, -84], [4, 1016, 392, -96], [5, 976, 361, 13], [6, 1023, 355, -18], [7, 1050, 354, -40], [8, 1075, 354, -55], [9, 975, 390, 18], [10, 1011, 397, -56], [11, 983, 398, -84], [12, 958, 395, -78], [13, 969, 417, 13], [14, 995, 425, -58], [15, 965, 420, -55], [16, 941, 414, -26], [17, 958, 440, 4], [18, 978, 446, -35], [19, 959, 441, -24], [20, 943, 437, -1]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 408, 0], [1, 902, 382, -53], [2, 946, 370, -66], [3, 988, 378, -81], [4, 1016, 393, -91], [5, 980, 364, 29], [6, 1025, 359, 0], [7, 1052, 358, -22], [8, 1075, 358, -37], [9, 977, 392, 33], [10, 1011, 401, -43], [11, 985, 401, -78], [12, 960, 395, -76], [13, 969, 418, 27], [14, 993, 428, -52], [15, 963, 423, -59], [16, 937, 414, -33], [17, 957, 441, 18], [18, 977, 448, -32], [19, 957, 443, -27], [20, 937, 437, -4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 411, 0], [1, 900, 385, -70], [2, 946, 374, -81], [3, 988, 382, -89], [4, 1017, 396, -90], [5, 975, 365, 22], [6, 1022, 360, 2], [7, 1050, 360, -13], [8, 1075, 360, -23], [9, 973, 394, 43], [10, 1006, 405, -23], [11, 977, 406, -54], [12, 952, 402, -48], [13, 967, 420, 53], [14, 992, 430, -18], [15, 961, 425, -27], [16, 936, 418, -4], [17, 958, 443, 57], [18, 979, 451, 15], [19, 960, 447, 15], [20, 943, 442, 33]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 411, 0], [1, 900, 384, -58], [2, 946, 372, -73], [3, 988, 379, -87], [4, 1017, 394, -95], [5, 977, 366, 20], [6, 1023, 360, -10], [7, 1049, 360, -32], [8, 1074, 361, -48], [9, 976, 394, 29], [10, 1008, 403, -48], [11, 978, 404, -80], [12, 953, 400, -74], [13, 969, 420, 27], [14, 992, 430, -49], [15, 960, 425, -50], [16, 936, 417, -22], [17, 959, 443, 20], [18, 975, 450, -21], [19, 955, 446, -15], [20, 939, 441, 6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 410, 0], [1, 902, 383, -59], [2, 945, 371, -73], [3, 985, 378, -87], [4, 1013, 394, -94], [5, 980, 365, 25], [6, 1025, 360, 0], [7, 1051, 359, -20], [8, 1074, 361, -34], [9, 977, 393, 36], [10, 1009, 401, -37], [11, 981, 401, -70], [12, 956, 398, -67], [13, 969, 420, 35], [14, 992, 427, -40], [15, 963, 422, -48], [16, 939, 415, -23], [17, 957, 443, 30], [18, 977, 450, -14], [19, 961, 446, -12], [20, 945, 441, 6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 410, 0], [1, 901, 383, -58], [2, 946, 372, -69], [3, 988, 380, -80], [4, 1016, 395, -85], [5, 977, 366, 33], [6, 1022, 360, 8], [7, 1049, 359, -13], [8, 1073, 360, -28], [9, 975, 393, 43], [10, 1007, 401, -29], [11, 980, 403, -64], [12, 954, 399, -62], [13, 967, 420, 42], [14, 990, 428, -34], [15, 961, 423, -44], [16, 935, 416, -21], [17, 956, 442, 37], [18, 976, 449, -10], [19, 957, 445, -10], [20, 938, 440, 7]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 409, 0], [1, 898, 382, -59], [2, 944, 371, -75], [3, 986, 380, -90], [4, 1015, 395, -100], [5, 975, 364, 13], [6, 1023, 359, -19], [7, 1050, 359, -42], [8, 1074, 360, -57], [9, 974, 392, 21], [10, 1008, 403, -57], [11, 979, 402, -87], [12, 954, 397, -80], [13, 968, 419, 19], [14, 992, 430, -56], [15, 961, 423, -55], [16, 938, 415, -26], [17, 957, 443, 12], [18, 976, 451, -28], [19, 956, 445, -18], [20, 940, 440, 6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 410, 0], [1, 901, 382, -58], [2, 947, 371, -66], [3, 989, 380, -75], [4, 1016, 395, -78], [5, 976, 366, 31], [6, 1023, 360, 8], [7, 1051, 360, -9], [8, 1075, 360, -20], [9, 973, 393, 42], [10, 1007, 403, -30], [11, 979, 405, -61], [12, 953, 402, -55], [13, 966, 419, 43], [14, 990, 430, -33], [15, 959, 425, -42], [16, 934, 418, -18], [17, 955, 442, 38], [18, 976, 450, -7], [19, 957, 445, -6], [20, 938, 441, 13]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 862, 411, 0], [1, 901, 386, -67], [2, 945, 375, -81], [3, 986, 383, -93], [4, 1015, 396, -98], [5, 978, 366, 21], [6, 1025, 362, -5], [7, 1052, 362, -25], [8, 1076, 363, -38], [9, 975, 395, 36], [10, 1009, 404, -37], [11, 980, 404, -70], [12, 955, 399, -64], [13, 968, 422, 41], [14, 993, 431, -34], [15, 963, 425, -41], [16, 939, 417, -17], [17, 958, 444, 40], [18, 976, 452, -3], [19, 957, 447, -2], [20, 941, 441, 16]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 412, 0], [1, 903, 386, -54], [2, 948, 374, -69], [3, 989, 382, -84], [4, 1017, 396, -93], [5, 980, 368, 20], [6, 1026, 364, -10], [7, 1052, 363, -32], [8, 1075, 364, -47], [9, 977, 397, 26], [10, 1011, 406, -50], [11, 983, 405, -81], [12, 959, 400, -74], [13, 969, 423, 23], [14, 993, 432, -52], [15, 963, 426, -53], [16, 939, 419, -25], [17, 957, 445, 15], [18, 976, 453, -27], [19, 958, 448, -20], [20, 942, 444, 2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 413, 0], [1, 903, 387, -69], [2, 948, 376, -79], [3, 991, 382, -86], [4, 1021, 396, -87], [5, 978, 367, 42], [6, 1024, 362, 22], [7, 1052, 363, 2], [8, 1076, 364, -11], [9, 975, 395, 61], [10, 1008, 405, -10], [11, 981, 406, -49], [12, 956, 400, -49], [13, 967, 422, 67], [14, 993, 432, -10], [15, 963, 426, -27], [16, 938, 417, -8], [17, 956, 444, 68], [18, 976, 452, 18], [19, 957, 448, 12], [20, 939, 443, 28]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 412, 0], [1, 900, 384, -56], [2, 946, 372, -70], [3, 988, 381, -85], [4, 1015, 397, -95], [5, 976, 368, 26], [6, 1022, 364, -2], [7, 1049, 363, -25], [8, 1073, 363, -41], [9, 974, 395, 32], [10, 1010, 405, -44], [11, 983, 405, -78], [12, 958, 399, -74], [13, 966, 421, 28], [14, 992, 433, -50], [15, 962, 426, -55], [16, 936, 417, -29], [17, 955, 443, 19], [18, 975, 452, -26], [19, 955, 447, -20], [20, 937, 442, 1]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 859, 411, 0], [1, 899, 386, -71], [2, 944, 375, -84], [3, 987, 382, -94], [4, 1018, 396, -98], [5, 973, 367, 34], [6, 1020, 361, 9], [7, 1049, 361, -13], [8, 1074, 363, -29], [9, 971, 394, 51], [10, 1005, 405, -23], [11, 977, 407, -63], [12, 951, 402, -62], [13, 964, 420, 57], [14, 991, 431, -23], [15, 961, 426, -37], [16, 936, 418, -15], [17, 954, 443, 57], [18, 976, 452, 6], [19, 957, 448, 3], [20, 938, 443, 21]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 859, 410, 0], [1, 900, 384, -58], [2, 945, 374, -71], [3, 987, 382, -83], [4, 1015, 398, -90], [5, 976, 366, 35], [6, 1022, 361, 11], [7, 1050, 362, -10], [8, 1074, 364, -25], [9, 973, 394, 45], [10, 1006, 405, -26], [11, 977, 405, -60], [12, 951, 400, -57], [13, 965, 421, 45], [14, 992, 431, -27], [15, 962, 425, -33], [16, 938, 418, -8], [17, 954, 445, 39], [18, 976, 452, -2], [19, 957, 446, 3], [20, 939, 442, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 859, 413, 0], [1, 900, 387, -59], [2, 945, 375, -72], [3, 987, 383, -84], [4, 1015, 400, -91], [5, 975, 368, 28], [6, 1022, 363, 2], [7, 1050, 363, -17], [8, 1075, 365, -31], [9, 972, 396, 39], [10, 1005, 406, -36], [11, 975, 406, -67], [12, 949, 402, -61], [13, 965, 422, 39], [14, 991, 432, -36], [15, 960, 427, -40], [16, 935, 420, -12], [17, 954, 445, 33], [18, 976, 454, -10], [19, 957, 449, -4], [20, 939, 444, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 412, 0], [1, 901, 385, -57], [2, 947, 373, -70], [3, 988, 382, -83], [4, 1016, 400, -91], [5, 976, 369, 25], [6, 1023, 365, 0], [7, 1049, 365, -19], [8, 1073, 366, -33], [9, 974, 397, 34], [10, 1008, 407, -38], [11, 979, 408, -68], [12, 954, 404, -63], [13, 967, 423, 33], [14, 991, 433, -41], [15, 961, 428, -45], [16, 936, 420, -19], [17, 956, 445, 27], [18, 975, 454, -15], [19, 957, 449, -11], [20, 939, 444, 8]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 413, 0], [1, 902, 384, -50], [2, 947, 373, -58], [3, 988, 383, -67], [4, 1015, 400, -70], [5, 976, 369, 35], [6, 1022, 364, 13], [7, 1049, 364, -5], [8, 1073, 366, -18], [9, 974, 397, 42], [10, 1007, 406, -24], [11, 980, 406, -55], [12, 956, 402, -51], [13, 967, 423, 41], [14, 990, 433, -27], [15, 961, 427, -33], [16, 936, 419, -9], [17, 956, 446, 35], [18, 974, 453, -3], [19, 955, 449, 0], [20, 938, 445, 19]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 859, 414, 0], [1, 898, 385, -50], [2, 945, 374, -59], [3, 987, 383, -71], [4, 1015, 397, -77], [5, 974, 371, 29], [6, 1021, 366, 2], [7, 1048, 366, -17], [8, 1072, 366, -31], [9, 972, 397, 33], [10, 1008, 407, -39], [11, 982, 409, -71], [12, 957, 405, -67], [13, 965, 423, 28], [14, 991, 434, -48], [15, 960, 429, -53], [16, 933, 421, -28], [17, 953, 445, 18], [18, 973, 453, -28], [19, 953, 449, -25], [20, 934, 445, -6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 414, 0], [1, 899, 386, -55], [2, 945, 374, -68], [3, 987, 383, -82], [4, 1014, 401, -91], [5, 974, 371, 25], [6, 1021, 366, -4], [7, 1047, 366, -26], [8, 1072, 368, -41], [9, 973, 398, 31], [10, 1006, 410, -46], [11, 976, 410, -77], [12, 951, 404, -71], [13, 967, 424, 27], [14, 989, 436, -47], [15, 958, 429, -49], [16, 934, 421, -22], [17, 956, 447, 18], [18, 973, 455, -23], [19, 953, 449, -16], [20, 936, 444, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 418, 0], [1, 901, 392, -55], [2, 945, 381, -69], [3, 986, 390, -84], [4, 1013, 403, -93], [5, 977, 373, 18], [6, 1023, 370, -12], [7, 1049, 370, -33], [8, 1073, 372, -47], [9, 975, 401, 24], [10, 1007, 414, -54], [11, 978, 415, -86], [12, 952, 410, -79], [13, 968, 428, 21], [14, 988, 440, -58], [15, 958, 435, -61], [16, 933, 426, -33], [17, 956, 449, 13], [18, 975, 459, -32], [19, 956, 454, -24], [20, 938, 448, -1]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 862, 422, 0], [1, 901, 396, -50], [2, 947, 384, -61], [3, 988, 393, -72], [4, 1016, 409, -78], [5, 976, 378, 28], [6, 1021, 375, 2], [7, 1048, 375, -17], [8, 1073, 376, -31], [9, 975, 406, 34], [10, 1008, 415, -39], [11, 980, 416, -71], [12, 954, 411, -66], [13, 968, 431, 30], [14, 991, 442, -43], [15, 961, 437, -47], [16, 935, 430, -20], [17, 958, 454, 21], [18, 976, 461, -20], [19, 956, 457, -13], [20, 937, 452, 8]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 427, 0], [1, 903, 401, -60], [2, 947, 391, -76], [3, 989, 400, -91], [4, 1018, 416, -100], [5, 979, 382, 15], [6, 1025, 381, -13], [7, 1052, 381, -33], [8, 1076, 383, -45], [9, 976, 411, 25], [10, 1009, 425, -50], [11, 978, 425, -79], [12, 952, 419, -72], [13, 969, 437, 25], [14, 991, 451, -51], [15, 960, 444, -52], [16, 937, 436, -24], [17, 958, 459, 20], [18, 977, 469, -22], [19, 957, 464, -13], [20, 941, 458, 10]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 865, 433, 0], [1, 904, 411, -74], [2, 948, 402, -88], [3, 990, 409, -98], [4, 1021, 422, -100], [5, 981, 388, 20], [6, 1026, 386, -4], [7, 1054, 387, -24], [8, 1078, 388, -37], [9, 978, 416, 40], [10, 1012, 430, -33], [11, 982, 430, -66], [12, 956, 425, -61], [13, 970, 443, 49], [14, 994, 456, -26], [15, 964, 451, -34], [16, 941, 442, -9], [17, 958, 464, 52], [18, 978, 475, 8], [19, 959, 470, 12], [20, 943, 463, 34]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 434, 0], [1, 906, 409, -64], [2, 952, 400, -78], [3, 993, 409, -90], [4, 1022, 425, -97], [5, 984, 394, 26], [6, 1029, 391, -1], [7, 1055, 392, -22], [8, 1079, 393, -37], [9, 981, 422, 37], [10, 1015, 436, -40], [11, 987, 435, -75], [12, 962, 429, -70], [13, 972, 448, 36], [14, 994, 461, -44], [15, 964, 453, -53], [16, 942, 443, -28], [17, 960, 469, 31], [18, 979, 478, -14], [19, 959, 472, -9], [20, 942, 465, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 435, 0], [1, 902, 413, -66], [2, 948, 402, -81], [3, 991, 410, -95], [4, 1021, 425, -103], [5, 981, 396, 21], [6, 1027, 393, -7], [7, 1055, 394, -30], [8, 1080, 397, -46], [9, 978, 424, 34], [10, 1012, 434, -39], [11, 985, 435, -74], [12, 960, 430, -72], [13, 970, 449, 37], [14, 996, 461, -40], [15, 967, 455, -49], [16, 941, 447, -26], [17, 958, 471, 34], [18, 981, 480, -14], [19, 962, 475, -14], [20, 942, 468, 4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 437, 0], [1, 909, 412, -66], [2, 953, 403, -79], [3, 996, 412, -89], [4, 1026, 425, -93], [5, 984, 397, 37], [6, 1030, 393, 14], [7, 1057, 395, -6], [8, 1081, 398, -21], [9, 981, 425, 52], [10, 1013, 437, -21], [11, 986, 437, -60], [12, 961, 431, -61], [13, 972, 451, 56], [14, 998, 462, -23], [15, 969, 456, -39], [16, 944, 446, -20], [17, 961, 473, 54], [18, 981, 482, 2], [19, 962, 477, -3], [20, 944, 471, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 437, 0], [1, 908, 413, -59], [2, 954, 404, -73], [3, 995, 414, -86], [4, 1024, 430, -94], [5, 983, 397, 21], [6, 1029, 394, -7], [7, 1057, 395, -29], [8, 1082, 397, -44], [9, 980, 425, 31], [10, 1012, 438, -44], [11, 985, 438, -76], [12, 960, 433, -72], [13, 973, 450, 30], [14, 997, 463, -44], [15, 968, 457, -48], [16, 943, 449, -22], [17, 962, 472, 25], [18, 981, 482, -19], [19, 962, 476, -15], [20, 945, 470, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 438, 0], [1, 911, 411, -51], [2, 957, 401, -64], [3, 998, 413, -78], [4, 1025, 432, -87], [5, 985, 399, 21], [6, 1031, 396, -6], [7, 1058, 397, -26], [8, 1083, 399, -40], [9, 982, 426, 26], [10, 1015, 438, -47], [11, 988, 439, -75], [12, 963, 434, -68], [13, 974, 451, 22], [14, 998, 463, -51], [15, 968, 457, -52], [16, 942, 450, -23], [17, 961, 473, 14], [18, 982, 483, -28], [19, 964, 478, -21], [20, 946, 473, 0]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 439, 0], [1, 909, 416, -63], [2, 954, 406, -81], [3, 995, 415, -97], [4, 1023, 433, -109], [5, 987, 400, 12], [6, 1033, 398, -18], [7, 1059, 399, -40], [8, 1082, 401, -55], [9, 984, 428, 23], [10, 1014, 440, -54], [11, 985, 440, -85], [12, 960, 434, -80], [13, 976, 454, 23], [14, 997, 465, -54], [15, 967, 459, -57], [16, 943, 450, -30], [17, 965, 476, 18], [18, 982, 484, -28], [19, 962, 478, -24], [20, 945, 473, -2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 439, 0], [1, 908, 417, -64], [2, 953, 406, -81], [3, 996, 415, -96], [4, 1026, 431, -106], [5, 985, 401, 17], [6, 1031, 398, -14], [7, 1058, 399, -37], [8, 1083, 402, -53], [9, 983, 428, 29], [10, 1016, 440, -49], [11, 988, 441, -82], [12, 963, 436, -77], [13, 975, 453, 30], [14, 998, 467, -49], [15, 967, 461, -54], [16, 942, 452, -27], [17, 964, 475, 25], [18, 982, 485, -23], [19, 961, 480, -21], [20, 943, 473, 0]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 441, 0], [1, 908, 417, -63], [2, 953, 408, -78], [3, 996, 417, -92], [4, 1027, 432, -100], [5, 985, 402, 28], [6, 1031, 399, 0], [7, 1058, 401, -22], [8, 1082, 404, -38], [9, 982, 429, 40], [10, 1012, 444, -36], [11, 985, 443, -73], [12, 960, 435, -71], [13, 974, 455, 41], [14, 997, 468, -36], [15, 968, 461, -45], [16, 944, 451, -22], [17, 963, 477, 38], [18, 981, 486, -10], [19, 962, 481, -10], [20, 944, 474, 8]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 441, 0], [1, 912, 416, -60], [2, 956, 408, -72], [3, 998, 419, -82], [4, 1025, 436, -87], [5, 984, 402, 36], [6, 1031, 400, 14], [7, 1059, 401, -5], [8, 1084, 405, -19], [9, 981, 429, 49], [10, 1012, 443, -20], [11, 985, 442, -55], [12, 960, 436, -54], [13, 973, 455, 51], [14, 998, 468, -21], [15, 970, 461, -31], [16, 945, 452, -9], [17, 962, 476, 47], [18, 981, 486, 4], [19, 963, 480, 4], [20, 945, 475, 21]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 441, 0], [1, 912, 418, -59], [2, 957, 409, -73], [3, 998, 419, -87], [4, 1025, 437, -96], [5, 987, 403, 24], [6, 1033, 401, -2], [7, 1060, 404, -23], [8, 1084, 407, -37], [9, 984, 431, 33], [10, 1014, 444, -41], [11, 984, 444, -73], [12, 958, 438, -69], [13, 975, 457, 33], [14, 997, 469, -44], [15, 967, 462, -50], [16, 941, 453, -24], [17, 964, 479, 28], [18, 982, 487, -19], [19, 961, 481, -17], [20, 943, 475, 3]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 441, 0], [1, 912, 417, -48], [2, 959, 408, -59], [3, 999, 420, -71], [4, 1026, 437, -78], [5, 986, 404, 15], [6, 1033, 402, -10], [7, 1060, 404, -28], [8, 1083, 406, -40], [9, 983, 431, 20], [10, 1016, 443, -50], [11, 991, 445, -77], [12, 965, 441, -71], [13, 975, 456, 17], [14, 998, 469, -55], [15, 968, 464, -56], [16, 941, 456, -29], [17, 963, 477, 10], [18, 982, 488, -34], [19, 963, 483, -29], [20, 943, 477, -9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 874, 442, 0], [1, 913, 417, -55], [2, 957, 408, -68], [3, 999, 419, -81], [4, 1026, 435, -90], [5, 987, 406, 25], [6, 1032, 403, -2], [7, 1059, 405, -23], [8, 1083, 408, -38], [9, 983, 433, 32], [10, 1017, 444, -41], [11, 991, 443, -75], [12, 966, 438, -72], [13, 975, 458, 30], [14, 999, 470, -48], [15, 970, 463, -56], [16, 944, 453, -33], [17, 963, 479, 23], [18, 983, 490, -26], [19, 965, 484, -27], [20, 947, 477, -9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 871, 443, 0], [1, 910, 420, -61], [2, 956, 411, -72], [3, 997, 422, -83], [4, 1025, 439, -88], [5, 987, 405, 30], [6, 1032, 403, 6], [7, 1059, 406, -13], [8, 1084, 409, -27], [9, 983, 432, 42], [10, 1016, 444, -29], [11, 988, 445, -61], [12, 962, 440, -57], [13, 975, 458, 43], [14, 1000, 470, -32], [15, 971, 464, -39], [16, 945, 455, -14], [17, 963, 480, 39], [18, 983, 489, -7], [19, 965, 484, -5], [20, 946, 478, 14]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 874, 442, 0], [1, 912, 418, -51], [2, 958, 409, -66], [3, 998, 420, -82], [4, 1026, 436, -92], [5, 989, 405, 12], [6, 1034, 403, -18], [7, 1060, 405, -39], [8, 1083, 408, -52], [9, 986, 433, 16], [10, 1019, 443, -57], [11, 990, 443, -82], [12, 964, 438, -73], [13, 978, 458, 11], [14, 1001, 469, -61], [15, 970, 462, -57], [16, 946, 454, -26], [17, 965, 481, 1], [18, 984, 489, -38], [19, 966, 483, -28], [20, 950, 477, -4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 442, 0], [1, 910, 420, -67], [2, 955, 411, -82], [3, 997, 420, -95], [4, 1026, 437, -101], [5, 986, 405, 21], [6, 1032, 402, -4], [7, 1059, 404, -26], [8, 1083, 407, -41], [9, 983, 432, 37], [10, 1014, 444, -35], [11, 987, 444, -69], [12, 962, 438, -67], [13, 975, 457, 41], [14, 1001, 470, -33], [15, 971, 463, -40], [16, 946, 455, -16], [17, 964, 479, 40], [18, 983, 489, -5], [19, 965, 484, -3], [20, 947, 478, 16]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 874, 441, 0], [1, 912, 416, -54], [2, 958, 407, -69], [3, 999, 418, -84], [4, 1027, 436, -93], [5, 988, 404, 22], [6, 1034, 402, -3], [7, 1061, 404, -24], [8, 1084, 407, -38], [9, 984, 431, 28], [10, 1019, 444, -42], [11, 993, 443, -72], [12, 967, 436, -67], [13, 975, 456, 25], [14, 1001, 469, -47], [15, 973, 461, -49], [16, 949, 452, -24], [17, 961, 478, 17], [18, 982, 487, -26], [19, 964, 481, -21], [20, 946, 474, -1]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 442, 0], [1, 911, 420, -66], [2, 957, 412, -80], [3, 998, 423, -92], [4, 1026, 440, -98], [5, 988, 403, 20], [6, 1034, 402, -5], [7, 1061, 405, -25], [8, 1085, 408, -38], [9, 984, 431, 34], [10, 1013, 447, -39], [11, 983, 446, -70], [12, 959, 440, -63], [13, 975, 457, 38], [14, 998, 472, -40], [15, 966, 464, -44], [16, 942, 454, -18], [17, 963, 478, 36], [18, 981, 489, -14], [19, 959, 482, -10], [20, 941, 475, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 443, 0], [1, 911, 420, -61], [2, 957, 411, -75], [3, 998, 422, -89], [4, 1027, 437, -97], [5, 989, 405, 21], [6, 1033, 403, -7], [7, 1060, 405, -29], [8, 1083, 408, -44], [9, 985, 432, 30], [10, 1018, 446, -43], [11, 991, 444, -75], [12, 966, 438, -71], [13, 976, 458, 29], [14, 1000, 471, -47], [15, 970, 463, -53], [16, 946, 453, -28], [17, 964, 480, 23], [18, 983, 488, -23], [19, 963, 482, -19], [20, 944, 475, 0]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 444, 0], [1, 910, 421, -66], [2, 957, 413, -80], [3, 1000, 425, -92], [4, 1029, 441, -99], [5, 986, 406, 23], [6, 1032, 404, -3], [7, 1060, 406, -25], [8, 1085, 409, -39], [9, 983, 433, 37], [10, 1015, 450, -38], [11, 984, 449, -72], [12, 958, 442, -67], [13, 976, 459, 41], [14, 1000, 474, -37], [15, 968, 466, -44], [16, 943, 456, -18], [17, 965, 480, 40], [18, 985, 491, -8], [19, 964, 484, -6], [20, 945, 478, 14]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 875, 443, 0], [1, 915, 420, -55], [2, 960, 411, -69], [3, 1000, 423, -83], [4, 1027, 442, -92], [5, 991, 407, 27], [6, 1035, 405, 0], [7, 1061, 407, -21], [8, 1085, 410, -35], [9, 986, 435, 34], [10, 1017, 448, -38], [11, 988, 447, -69], [12, 963, 442, -64], [13, 977, 460, 31], [14, 1001, 472, -41], [15, 971, 465, -44], [16, 947, 457, -17], [17, 964, 482, 24], [18, 983, 491, -18], [19, 965, 485, -12], [20, 947, 478, 9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 872, 445, 0], [1, 911, 422, -63], [2, 957, 413, -77], [3, 998, 425, -89], [4, 1026, 441, -96], [5, 989, 406, 17], [6, 1034, 405, -10], [7, 1061, 407, -32], [8, 1085, 410, -45], [9, 985, 434, 29], [10, 1018, 447, -44], [11, 989, 447, -74], [12, 964, 442, -67], [13, 977, 461, 31], [14, 1000, 473, -45], [15, 969, 466, -48], [16, 945, 458, -19], [17, 964, 482, 27], [18, 983, 491, -19], [19, 963, 485, -12], [20, 945, 479, 10]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 444, 0], [1, 909, 422, -74], [2, 956, 414, -85], [3, 998, 425, -91], [4, 1027, 442, -90], [5, 987, 404, 33], [6, 1033, 403, 13], [7, 1061, 406, -4], [8, 1085, 408, -16], [9, 983, 432, 54], [10, 1016, 446, -16], [11, 987, 445, -51], [12, 961, 439, -46], [13, 974, 458, 63], [14, 999, 472, -16], [15, 967, 464, -31], [16, 942, 454, -9], [17, 963, 481, 66], [18, 983, 491, 15], [19, 961, 483, 11], [20, 942, 476, 29]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 442, 0], [1, 911, 418, -64], [2, 957, 410, -75], [3, 998, 422, -86], [4, 1026, 440, -90], [5, 987, 405, 37], [6, 1032, 404, 16], [7, 1059, 406, -4], [8, 1083, 409, -18], [9, 983, 433, 52], [10, 1013, 445, -17], [11, 985, 444, -53], [12, 960, 438, -51], [13, 974, 459, 55], [14, 998, 470, -18], [15, 969, 463, -30], [16, 945, 454, -9], [17, 962, 480, 53], [18, 980, 489, 8], [19, 962, 483, 6], [20, 945, 478, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 441, 0], [1, 909, 419, -63], [2, 953, 411, -77], [3, 995, 422, -91], [4, 1023, 440, -100], [5, 987, 404, 33], [6, 1031, 402, 6], [7, 1057, 405, -16], [8, 1081, 408, -31], [9, 983, 432, 43], [10, 1016, 443, -29], [11, 987, 441, -63], [12, 963, 435, -60], [13, 973, 458, 43], [14, 998, 470, -33], [15, 968, 461, -39], [16, 944, 452, -14], [17, 960, 480, 37], [18, 980, 488, -7], [19, 960, 481, -3], [20, 943, 475, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 868, 442, 0], [1, 908, 419, -63], [2, 954, 410, -77], [3, 995, 420, -90], [4, 1023, 439, -97], [5, 986, 404, 29], [6, 1031, 402, 3], [7, 1058, 404, -18], [8, 1082, 407, -34], [9, 982, 431, 40], [10, 1015, 443, -30], [11, 988, 441, -63], [12, 964, 435, -60], [13, 973, 458, 40], [14, 998, 469, -33], [15, 969, 461, -39], [16, 946, 452, -14], [17, 960, 480, 35], [18, 979, 489, -8], [19, 961, 482, -3], [20, 945, 476, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 443, 0], [1, 908, 417, -60], [2, 953, 408, -74], [3, 994, 419, -88], [4, 1022, 436, -96], [5, 984, 404, 26], [6, 1030, 402, -4], [7, 1057, 404, -27], [8, 1082, 407, -43], [9, 981, 432, 35], [10, 1015, 443, -42], [11, 986, 442, -76], [12, 961, 436, -71], [13, 973, 457, 33], [14, 998, 469, -45], [15, 966, 462, -49], [16, 942, 454, -22], [17, 961, 479, 26], [18, 979, 488, -19], [19, 960, 482, -15], [20, 943, 476, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 441, 0], [1, 908, 418, -58], [2, 954, 410, -73], [3, 996, 421, -88], [4, 1025, 438, -98], [5, 984, 404, 23], [6, 1031, 402, -4], [7, 1058, 404, -26], [8, 1083, 407, -41], [9, 980, 432, 30], [10, 1013, 444, -44], [11, 985, 443, -77], [12, 960, 437, -73], [13, 972, 457, 28], [14, 998, 470, -46], [15, 968, 463, -49], [16, 943, 453, -23], [17, 960, 480, 21], [18, 980, 489, -23], [19, 961, 482, -18], [20, 943, 476, 2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 442, 0], [1, 910, 418, -54], [2, 956, 409, -67], [3, 997, 421, -81], [4, 1022, 440, -90], [5, 986, 404, 22], [6, 1032, 403, -3], [7, 1059, 404, -22], [8, 1083, 406, -36], [9, 982, 432, 29], [10, 1014, 444, -42], [11, 985, 443, -72], [12, 960, 437, -66], [13, 973, 458, 27], [14, 997, 469, -44], [15, 967, 462, -46], [16, 944, 453, -19], [17, 960, 480, 19], [18, 980, 489, -20], [19, 962, 483, -13], [20, 946, 477, 8]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 442, 0], [1, 910, 419, -57], [2, 957, 411, -71], [3, 998, 422, -84], [4, 1026, 437, -91], [5, 983, 402, 12], [6, 1032, 401, -18], [7, 1060, 403, -38], [8, 1085, 406, -51], [9, 981, 430, 22], [10, 1012, 445, -52], [11, 983, 445, -82], [12, 959, 439, -75], [13, 975, 457, 24], [14, 997, 470, -48], [15, 966, 463, -48], [16, 944, 455, -20], [17, 966, 480, 20], [18, 982, 489, -18], [19, 963, 484, -10], [20, 947, 479, 10]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 442, 0], [1, 908, 421, -69], [2, 953, 413, -86], [3, 995, 423, -101], [4, 1025, 438, -111], [5, 986, 405, 20], [6, 1033, 403, -6], [7, 1061, 404, -28], [8, 1085, 407, -43], [9, 982, 433, 34], [10, 1016, 445, -40], [11, 990, 444, -75], [12, 965, 437, -73], [13, 973, 458, 37], [14, 998, 471, -42], [15, 969, 464, -51], [16, 944, 454, -28], [17, 960, 480, 35], [18, 981, 489, -16], [19, 961, 483, -15], [20, 941, 476, 4]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 443, 0], [1, 907, 422, -68], [2, 952, 412, -85], [3, 995, 421, -100], [4, 1025, 437, -109], [5, 987, 404, 25], [6, 1033, 402, -3], [7, 1061, 405, -27], [8, 1085, 408, -43], [9, 983, 432, 39], [10, 1015, 444, -34], [11, 988, 442, -69], [12, 965, 436, -66], [13, 974, 459, 43], [14, 1000, 471, -31], [15, 972, 463, -36], [16, 948, 453, -10], [17, 961, 481, 40], [18, 983, 490, -2], [19, 965, 484, 2], [20, 949, 477, 23]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 442, 0], [1, 907, 420, -73], [2, 953, 412, -88], [3, 995, 422, -98], [4, 1025, 438, -102], [5, 986, 403, 20], [6, 1033, 402, -5], [7, 1059, 404, -24], [8, 1084, 407, -37], [9, 983, 431, 40], [10, 1014, 446, -33], [11, 983, 445, -64], [12, 958, 438, -57], [13, 974, 457, 48], [14, 998, 471, -27], [15, 967, 463, -33], [16, 944, 453, -7], [17, 963, 479, 50], [18, 981, 492, 7], [19, 962, 485, 9], [20, 947, 477, 28]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 441, 0], [1, 905, 419, -83], [2, 952, 411, -99], [3, 994, 420, -109], [4, 1024, 437, -111], [5, 986, 402, 17], [6, 1034, 401, -6], [7, 1060, 403, -24], [8, 1085, 406, -36], [9, 984, 431, 43], [10, 1017, 444, -28], [11, 987, 442, -59], [12, 961, 436, -52], [13, 976, 457, 57], [14, 998, 469, -15], [15, 968, 461, -25], [16, 945, 452, -2], [17, 965, 479, 64], [18, 981, 489, 22], [19, 962, 482, 20], [20, 947, 475, 37]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 860, 441, 0], [1, 902, 422, -86], [2, 949, 415, -103], [3, 993, 423, -111], [4, 1024, 436, -111], [5, 982, 401, 10], [6, 1033, 401, -11], [7, 1061, 403, -28], [8, 1087, 406, -39], [9, 978, 429, 40], [10, 1011, 446, -29], [11, 983, 445, -61], [12, 959, 439, -57], [13, 971, 456, 58], [14, 998, 471, -16], [15, 967, 463, -28], [16, 943, 453, -7], [17, 961, 478, 69], [18, 981, 489, 22], [19, 962, 482, 17], [20, 946, 475, 33]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 869, 439, 0], [1, 912, 414, -58], [2, 958, 405, -71], [3, 1001, 416, -86], [4, 1029, 435, -94], [5, 990, 401, 29], [6, 1037, 399, 3], [7, 1064, 401, -17], [8, 1088, 405, -31], [9, 986, 429, 39], [10, 1019, 442, -35], [11, 989, 442, -67], [12, 964, 436, -63], [13, 978, 455, 38], [14, 1002, 467, -37], [15, 972, 460, -43], [16, 946, 452, -17], [17, 965, 477, 32], [18, 985, 487, -12], [19, 967, 481, -9], [20, 949, 474, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 437, 0], [1, 912, 415, -61], [2, 959, 408, -67], [3, 1000, 420, -72], [4, 1026, 438, -71], [5, 989, 398, 49], [6, 1036, 397, 33], [7, 1063, 398, 17], [8, 1087, 401, 6], [9, 985, 426, 64], [10, 1018, 439, 1], [11, 991, 439, -32], [12, 967, 433, -30], [13, 976, 453, 67], [14, 1000, 465, 1], [15, 972, 458, -13], [16, 949, 449, 4], [17, 964, 475, 66], [18, 984, 485, 28], [19, 966, 479, 27], [20, 949, 473, 44]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 434, 0], [1, 910, 412, -62], [2, 957, 405, -70], [3, 999, 417, -77], [4, 1026, 435, -78], [5, 984, 396, 36], [6, 1033, 395, 19], [7, 1061, 396, 4], [8, 1086, 399, -6], [9, 981, 423, 53], [10, 1012, 439, -10], [11, 984, 439, -43], [12, 960, 432, -40], [13, 973, 449, 60], [14, 998, 464, -5], [15, 969, 456, -18], [16, 945, 447, 0], [17, 963, 471, 61], [18, 983, 483, 23], [19, 965, 477, 22], [20, 947, 470, 37]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 434, 0], [1, 905, 413, -67], [2, 953, 405, -76], [3, 995, 416, -81], [4, 1024, 431, -79], [5, 980, 393, 30], [6, 1031, 393, 14], [7, 1059, 395, 1], [8, 1084, 397, -7], [9, 977, 420, 51], [10, 1012, 437, -11], [11, 982, 437, -41], [12, 958, 431, -35], [13, 969, 447, 61], [14, 997, 463, -5], [15, 966, 455, -15], [16, 943, 445, 5], [17, 960, 470, 66], [18, 981, 482, 27], [19, 962, 476, 27], [20, 947, 470, 44]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 435, 0], [1, 906, 414, -69], [2, 952, 404, -85], [3, 993, 413, -99], [4, 1022, 429, -106], [5, 986, 396, 20], [6, 1032, 396, -5], [7, 1058, 397, -25], [8, 1082, 399, -38], [9, 982, 424, 36], [10, 1014, 435, -36], [11, 986, 434, -68], [12, 962, 428, -64], [13, 974, 450, 41], [14, 997, 462, -34], [15, 966, 454, -40], [16, 943, 445, -16], [17, 963, 471, 40], [18, 980, 481, -3], [19, 960, 474, -2], [20, 943, 467, 16]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 436, 0], [1, 904, 413, -73], [2, 950, 404, -87], [3, 993, 414, -99], [4, 1022, 431, -104], [5, 981, 398, 29], [6, 1028, 395, 5], [7, 1056, 397, -15], [8, 1081, 400, -30], [9, 978, 425, 49], [10, 1011, 437, -24], [11, 984, 436, -62], [12, 959, 430, -61], [13, 970, 451, 56], [14, 995, 464, -22], [15, 965, 457, -37], [16, 941, 447, -17], [17, 961, 473, 58], [18, 980, 482, 8], [19, 961, 477, 4], [20, 942, 471, 19]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 437, 0], [1, 905, 414, -66], [2, 951, 406, -79], [3, 993, 416, -91], [4, 1022, 432, -96], [5, 984, 396, 26], [6, 1030, 395, 3], [7, 1057, 397, -16], [8, 1081, 400, -29], [9, 980, 425, 41], [10, 1010, 439, -29], [11, 981, 438, -61], [12, 956, 432, -57], [13, 971, 451, 44], [14, 994, 464, -31], [15, 964, 456, -38], [16, 939, 446, -14], [17, 958, 473, 42], [18, 977, 483, -5], [19, 958, 477, -4], [20, 940, 470, 14]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 861, 434, 0], [1, 903, 413, -64], [2, 949, 404, -79], [3, 991, 413, -93], [4, 1019, 430, -101], [5, 980, 395, 22], [6, 1027, 393, -3], [7, 1054, 394, -25], [8, 1079, 397, -40], [9, 976, 423, 35], [10, 1010, 435, -37], [11, 984, 436, -71], [12, 960, 431, -70], [13, 968, 449, 37], [14, 993, 462, -37], [15, 965, 455, -47], [16, 940, 446, -26], [17, 956, 471, 34], [18, 976, 481, -12], [19, 958, 475, -14], [20, 939, 468, 2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 433, 0], [1, 903, 410, -60], [2, 949, 402, -75], [3, 991, 414, -90], [4, 1020, 431, -99], [5, 981, 394, 22], [6, 1027, 392, -4], [7, 1054, 394, -25], [8, 1078, 397, -39], [9, 978, 422, 32], [10, 1008, 436, -37], [11, 981, 436, -67], [12, 957, 430, -63], [13, 969, 448, 32], [14, 993, 461, -39], [15, 963, 454, -42], [16, 939, 444, -18], [17, 957, 470, 26], [18, 975, 479, -17], [19, 955, 472, -13], [20, 937, 465, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 863, 435, 0], [1, 901, 413, -68], [2, 945, 403, -87], [3, 987, 411, -103], [4, 1016, 427, -113], [5, 980, 395, 9], [6, 1026, 394, -22], [7, 1053, 395, -43], [8, 1077, 397, -57], [9, 977, 423, 23], [10, 1011, 435, -53], [11, 983, 434, -84], [12, 959, 429, -78], [13, 969, 449, 26], [14, 993, 462, -52], [15, 963, 455, -56], [16, 939, 446, -29], [17, 957, 471, 24], [18, 977, 481, -22], [19, 958, 475, -18], [20, 940, 468, 2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 862, 436, 0], [1, 901, 414, -68], [2, 947, 405, -84], [3, 989, 414, -99], [4, 1019, 431, -106], [5, 980, 397, 16], [6, 1027, 396, -9], [7, 1053, 397, -29], [8, 1078, 400, -42], [9, 977, 424, 32], [10, 1009, 440, -41], [11, 979, 440, -73], [12, 954, 433, -68], [13, 970, 450, 37], [14, 991, 465, -41], [15, 960, 457, -48], [16, 936, 448, -23], [17, 959, 471, 36], [18, 978, 484, -11], [19, 957, 477, -9], [20, 939, 470, 9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 864, 438, 0], [1, 905, 417, -73], [2, 950, 409, -89], [3, 992, 419, -103], [4, 1022, 436, -109], [5, 982, 399, 18], [6, 1028, 398, -8], [7, 1055, 400, -29], [8, 1080, 403, -42], [9, 978, 427, 36], [10, 1008, 445, -37], [11, 978, 443, -69], [12, 955, 436, -64], [13, 971, 454, 43], [14, 992, 470, -34], [15, 962, 461, -41], [16, 939, 451, -17], [17, 960, 475, 44], [18, 978, 486, -1], [19, 959, 479, 0], [20, 942, 472, 20]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 867, 443, 0], [1, 906, 419, -63], [2, 953, 412, -75], [3, 994, 423, -85], [4, 1023, 439, -89], [5, 984, 404, 28], [6, 1030, 402, 3], [7, 1057, 404, -15], [8, 1081, 406, -27], [9, 981, 431, 41], [10, 1016, 445, -29], [11, 990, 445, -62], [12, 965, 439, -57], [13, 973, 457, 44], [14, 996, 472, -32], [15, 966, 464, -42], [16, 943, 454, -18], [17, 961, 479, 42], [18, 980, 489, -3], [19, 959, 482, -2], [20, 941, 474, 15]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 866, 447, 0], [1, 907, 426, -75], [2, 954, 419, -90], [3, 996, 428, -100], [4, 1027, 442, -103], [5, 986, 408, 23], [6, 1032, 406, 0], [7, 1060, 408, -18], [8, 1085, 411, -31], [9, 982, 436, 44], [10, 1017, 451, -28], [11, 988, 452, -63], [12, 961, 446, -58], [13, 974, 462, 53], [14, 998, 476, -24], [15, 968, 469, -37], [16, 943, 459, -15], [17, 962, 483, 56], [18, 983, 494, 9], [19, 964, 487, 9], [20, 945, 478, 27]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 870, 449, 0], [1, 910, 426, -65], [2, 957, 418, -82], [3, 999, 428, -97], [4, 1028, 446, -106], [5, 989, 412, 15], [6, 1035, 410, -16], [7, 1063, 411, -39], [8, 1088, 414, -53], [9, 986, 440, 26], [10, 1021, 456, -56], [11, 990, 456, -88], [12, 962, 450, -80], [13, 978, 466, 26], [14, 1001, 480, -56], [15, 970, 474, -61], [16, 945, 464, -32], [17, 966, 487, 21], [18, 985, 499, -26], [19, 967, 493, -22], [20, 949, 486, 0]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 875, 452, 0], [1, 917, 430, -65], [2, 963, 423, -79], [3, 1006, 434, -90], [4, 1035, 451, -96], [5, 993, 415, 29], [6, 1038, 414, 3], [7, 1066, 416, -18], [8, 1090, 419, -32], [9, 989, 443, 42], [10, 1023, 457, -33], [11, 995, 457, -69], [12, 969, 451, -66], [13, 980, 468, 44], [14, 1004, 483, -37], [15, 974, 476, -47], [16, 948, 466, -23], [17, 968, 490, 41], [18, 988, 501, -8], [19, 970, 495, -8], [20, 951, 488, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 881, 457, 0], [1, 925, 433, -63], [2, 970, 426, -70], [3, 1010, 438, -75], [4, 1038, 453, -73], [5, 999, 418, 48], [6, 1044, 417, 31], [7, 1071, 419, 14], [8, 1094, 422, 2], [9, 995, 446, 64], [10, 1028, 460, -4], [11, 1000, 461, -42], [12, 973, 455, -40], [13, 985, 472, 68], [14, 1010, 486, -5], [15, 981, 480, -22], [16, 957, 470, -3], [17, 974, 494, 68], [18, 992, 505, 24], [19, 974, 500, 19], [20, 957, 493, 35]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 882, 458, 0], [1, 923, 434, -64], [2, 969, 427, -79], [3, 1012, 438, -92], [4, 1042, 452, -99], [5, 1000, 418, 19], [6, 1046, 417, -9], [7, 1074, 419, -30], [8, 1099, 421, -45], [9, 997, 446, 31], [10, 1032, 462, -44], [11, 1003, 463, -74], [12, 977, 457, -68], [13, 989, 472, 32], [14, 1013, 487, -46], [15, 982, 479, -50], [16, 957, 469, -23], [17, 977, 494, 28], [18, 996, 505, -20], [19, 975, 498, -17], [20, 956, 490, 2]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 886, 458, 0], [1, 930, 438, -72], [2, 976, 431, -81], [3, 1018, 441, -87], [4, 1049, 454, -85], [5, 1005, 415, 35], [6, 1052, 413, 18], [7, 1079, 415, 1], [8, 1104, 417, -10], [9, 999, 443, 58], [10, 1031, 461, -10], [11, 1003, 463, -49], [12, 977, 457, -48], [13, 990, 470, 69], [14, 1016, 486, -6], [15, 987, 481, -24], [16, 962, 471, -6], [17, 978, 491, 76], [18, 999, 505, 25], [19, 983, 502, 18], [20, 966, 495, 32]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 893, 459, 0], [1, 939, 435, -47], [2, 986, 429, -51], [3, 1024, 441, -54], [4, 1050, 456, -50], [5, 1011, 416, 32], [6, 1058, 415, 16], [7, 1085, 416, 6], [8, 1109, 417, 0], [9, 1008, 444, 43], [10, 1045, 461, -17], [11, 1015, 463, -41], [12, 987, 458, -32], [13, 1000, 471, 45], [14, 1026, 487, -14], [15, 997, 481, -17], [16, 973, 473, 6], [17, 989, 493, 44], [18, 1007, 506, 14], [19, 991, 502, 20], [20, 976, 496, 38]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 896, 464, 0], [1, 937, 441, -64], [2, 985, 433, -77], [3, 1028, 444, -87], [4, 1058, 462, -92], [5, 1016, 421, 30], [6, 1061, 420, 6], [7, 1089, 421, -12], [8, 1113, 423, -25], [9, 1012, 449, 44], [10, 1046, 466, -28], [11, 1018, 466, -62], [12, 993, 461, -57], [13, 1004, 476, 46], [14, 1028, 493, -31], [15, 997, 485, -39], [16, 974, 476, -15], [17, 993, 497, 42], [18, 1012, 509, -2], [19, 992, 502, 0], [20, 974, 494, 20]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 901, 468, 0], [1, 943, 444, -62], [2, 990, 435, -71], [3, 1033, 447, -78], [4, 1063, 462, -77], [5, 1017, 424, 35], [6, 1065, 422, 16], [7, 1092, 424, 0], [8, 1118, 425, -11], [9, 1015, 452, 51], [10, 1052, 466, -16], [11, 1025, 467, -53], [12, 1000, 461, -50], [13, 1008, 480, 57], [14, 1036, 495, -14], [15, 1006, 490, -27], [16, 981, 481, -6], [17, 998, 502, 58], [18, 1019, 514, 16], [19, 1001, 510, 14], [20, 983, 504, 31]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 902, 471, 0], [1, 945, 449, -70], [2, 992, 441, -78], [3, 1037, 449, -82], [4, 1068, 464, -78], [5, 1019, 426, 47], [6, 1067, 424, 32], [7, 1096, 425, 14], [8, 1121, 427, 1], [9, 1017, 453, 67], [10, 1058, 469, 2], [11, 1034, 471, -39], [12, 1010, 465, -41], [13, 1010, 480, 76], [14, 1038, 498, 1], [15, 1010, 492, -21], [16, 985, 481, -6], [17, 999, 502, 79], [18, 1021, 516, 31], [19, 1000, 510, 23], [20, 980, 501, 35]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 903, 471, 0], [1, 949, 448, -71], [2, 998, 442, -76], [3, 1041, 453, -76], [4, 1071, 470, -68], [5, 1020, 427, 51], [6, 1069, 425, 45], [7, 1098, 426, 33], [8, 1123, 428, 23], [9, 1017, 455, 77], [10, 1051, 473, 17], [11, 1022, 475, -22], [12, 997, 469, -23], [13, 1010, 482, 92], [14, 1039, 500, 25], [15, 1010, 493, 2], [16, 985, 483, 15], [17, 1002, 505, 101], [18, 1022, 517, 60], [19, 1004, 513, 50], [20, 986, 507, 61]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 905, 472, 0], [1, 947, 449, -75], [2, 995, 441, -86], [3, 1041, 449, -93], [4, 1075, 462, -93], [5, 1025, 427, 41], [6, 1072, 424, 23], [7, 1100, 425, 5], [8, 1125, 427, -8], [9, 1022, 455, 63], [10, 1059, 467, -4], [11, 1034, 471, -45], [12, 1009, 467, -46], [13, 1015, 482, 72], [14, 1045, 496, -4], [15, 1016, 492, -25], [16, 990, 483, -9], [17, 1004, 504, 76], [18, 1025, 515, 22], [19, 1009, 512, 11], [20, 990, 505, 22]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 907, 472, 0], [1, 953, 450, -74], [2, 1000, 441, -83], [3, 1045, 448, -87], [4, 1077, 462, -83], [5, 1024, 426, 41], [6, 1074, 422, 28], [7, 1103, 423, 13], [8, 1129, 424, 1], [9, 1022, 454, 68], [10, 1057, 465, 6], [11, 1033, 469, -34], [12, 1009, 465, -38], [13, 1016, 481, 83], [14, 1046, 494, 13], [15, 1018, 492, -10], [16, 991, 484, 2], [17, 1007, 503, 93], [18, 1027, 515, 45], [19, 1013, 513, 31], [20, 996, 507, 41]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 910, 473, 0], [1, 953, 451, -78], [2, 998, 443, -87], [3, 1043, 450, -90], [4, 1076, 461, -87], [5, 1026, 424, 49], [6, 1072, 421, 35], [7, 1101, 421, 14], [8, 1126, 422, -2], [9, 1023, 453, 74], [10, 1064, 464, 12], [11, 1042, 467, -35], [12, 1018, 462, -43], [13, 1016, 481, 87], [14, 1049, 494, 13], [15, 1021, 490, -15], [16, 995, 481, -6], [17, 1006, 503, 94], [18, 1030, 514, 44], [19, 1012, 511, 31], [20, 991, 505, 39]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 912, 474, 0], [1, 954, 449, -69], [2, 1002, 440, -81], [3, 1047, 449, -89], [4, 1082, 461, -92], [5, 1028, 425, 38], [6, 1074, 421, 20], [7, 1102, 421, 0], [8, 1127, 421, -14], [9, 1027, 454, 56], [10, 1064, 465, -2], [11, 1049, 468, -41], [12, 1030, 465, -48], [13, 1021, 480, 62], [14, 1051, 495, -12], [15, 1023, 491, -32], [16, 996, 482, -18], [17, 1011, 503, 63], [18, 1035, 513, 7], [19, 1014, 509, -2], [20, 992, 501, 9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 912, 475, 0], [1, 957, 449, -71], [2, 1004, 440, -74], [3, 1050, 447, -74], [4, 1083, 460, -66], [5, 1025, 426, 72], [6, 1073, 420, 69], [7, 1103, 421, 53], [8, 1129, 422, 39], [9, 1023, 454, 96], [10, 1061, 464, 44], [11, 1047, 467, -6], [12, 1028, 462, -20], [13, 1018, 482, 107], [14, 1050, 495, 38], [15, 1025, 492, 0], [16, 998, 483, 2], [17, 1011, 505, 114], [18, 1034, 515, 63], [19, 1016, 512, 41], [20, 996, 505, 44]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 917, 480, 0], [1, 957, 453, -60], [2, 1004, 443, -70], [3, 1048, 455, -79], [4, 1079, 473, -83], [5, 1030, 434, 40], [6, 1075, 431, 21], [7, 1102, 431, 4], [8, 1126, 432, -8], [9, 1028, 461, 54], [10, 1062, 471, -5], [11, 1045, 471, -42], [12, 1027, 465, -46], [13, 1022, 487, 56], [14, 1048, 502, -13], [15, 1020, 497, -28], [16, 998, 487, -11], [17, 1013, 509, 54], [18, 1032, 519, 12], [19, 1015, 516, 10], [20, 999, 511, 26]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 913, 477, 0], [1, 953, 456, -69], [2, 1000, 446, -82], [3, 1045, 454, -92], [4, 1078, 466, -96], [5, 1026, 429, 27], [6, 1073, 426, 3], [7, 1099, 427, -15], [8, 1124, 428, -29], [9, 1025, 456, 44], [10, 1061, 470, -18], [11, 1042, 473, -53], [12, 1025, 469, -56], [13, 1019, 483, 50], [14, 1046, 499, -22], [15, 1018, 495, -34], [16, 995, 486, -15], [17, 1010, 506, 50], [18, 1031, 518, 3], [19, 1011, 513, 2], [20, 993, 506, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 914, 475, 0], [1, 957, 451, -69], [2, 1003, 442, -79], [3, 1047, 450, -86], [4, 1080, 463, -85], [5, 1028, 428, 43], [6, 1074, 424, 28], [7, 1102, 425, 10], [8, 1126, 426, -3], [9, 1025, 456, 63], [10, 1057, 472, 0], [11, 1033, 476, -39], [12, 1011, 472, -43], [13, 1018, 482, 72], [14, 1045, 498, -1], [15, 1017, 493, -21], [16, 994, 484, -7], [17, 1009, 504, 75], [18, 1029, 516, 25], [19, 1010, 511, 16], [20, 991, 504, 28]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 913, 474, 0], [1, 954, 449, -63], [2, 999, 440, -72], [3, 1042, 449, -82], [4, 1073, 463, -85], [5, 1026, 429, 47], [6, 1071, 424, 28], [7, 1099, 425, 6], [8, 1124, 426, -10], [9, 1025, 455, 60], [10, 1061, 463, 1], [11, 1055, 468, -43], [12, 1045, 466, -56], [13, 1018, 481, 61], [14, 1045, 493, -17], [15, 1019, 489, -45], [16, 993, 481, -36], [17, 1008, 503, 57], [18, 1030, 513, 0], [19, 1011, 508, -14], [20, 989, 501, -6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 911, 475, 0], [1, 949, 449, -62], [2, 997, 438, -73], [3, 1043, 447, -83], [4, 1076, 462, -87], [5, 1023, 429, 33], [6, 1070, 424, 14], [7, 1098, 424, -2], [8, 1123, 425, -15], [9, 1023, 456, 48], [10, 1058, 466, -6], [11, 1046, 469, -40], [12, 1034, 465, -44], [13, 1016, 481, 51], [14, 1043, 496, -17], [15, 1015, 492, -31], [16, 991, 482, -15], [17, 1007, 504, 50], [18, 1029, 515, 2], [19, 1010, 511, -1], [20, 990, 505, 12]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 907, 474, 0], [1, 949, 452, -74], [2, 996, 443, -85], [3, 1041, 451, -93], [4, 1074, 466, -94], [5, 1022, 428, 39], [6, 1069, 424, 21], [7, 1097, 424, 1], [8, 1122, 425, -13], [9, 1020, 455, 61], [10, 1057, 469, -2], [11, 1036, 471, -44], [12, 1015, 466, -49], [13, 1014, 482, 70], [14, 1043, 497, -5], [15, 1014, 492, -26], [16, 989, 482, -12], [17, 1004, 504, 73], [18, 1027, 516, 22], [19, 1007, 510, 13], [20, 986, 502, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 908, 474, 0], [1, 952, 449, -69], [2, 1000, 441, -72], [3, 1043, 453, -71], [4, 1075, 465, -63], [5, 1023, 427, 50], [6, 1070, 424, 40], [7, 1097, 425, 27], [8, 1122, 426, 17], [9, 1020, 455, 72], [10, 1053, 470, 16], [11, 1031, 471, -20], [12, 1010, 465, -22], [13, 1014, 482, 83], [14, 1041, 498, 16], [15, 1013, 492, -4], [16, 991, 483, 8], [17, 1005, 505, 88], [18, 1025, 516, 44], [19, 1006, 511, 36], [20, 988, 504, 47]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 902, 472, 0], [1, 945, 451, -74], [2, 990, 442, -85], [3, 1033, 447, -90], [4, 1066, 459, -88], [5, 1017, 425, 34], [6, 1065, 422, 23], [7, 1094, 423, 9], [8, 1119, 423, -1], [9, 1016, 452, 59], [10, 1053, 463, 13], [11, 1046, 468, -21], [12, 1036, 466, -29], [13, 1009, 478, 72], [14, 1040, 493, 6], [15, 1015, 490, -19], [16, 991, 482, -12], [17, 1000, 501, 80], [18, 1022, 512, 30], [19, 1006, 509, 13], [20, 988, 502, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 899, 469, 0], [1, 943, 449, -90], [2, 990, 441, -97], [3, 1034, 447, -95], [4, 1069, 456, -84], [5, 1016, 421, 44], [6, 1063, 418, 36], [7, 1092, 419, 20], [8, 1118, 421, 7], [9, 1013, 449, 81], [10, 1049, 462, 22], [11, 1027, 465, -23], [12, 1004, 461, -30], [13, 1007, 476, 104], [14, 1038, 490, 32], [15, 1010, 487, 0], [16, 986, 478, 7], [17, 1000, 499, 120], [18, 1021, 509, 69], [19, 1002, 506, 49], [20, 985, 501, 54]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 900, 466, 0], [1, 946, 443, -61], [2, 991, 433, -64], [3, 1035, 440, -65], [4, 1067, 453, -58], [5, 1013, 417, 54], [6, 1062, 416, 49], [7, 1090, 417, 37], [8, 1115, 418, 27], [9, 1011, 443, 77], [10, 1048, 459, 30], [11, 1030, 465, -8], [12, 1011, 460, -15], [13, 1005, 470, 89], [14, 1035, 487, 31], [15, 1009, 485, 6], [16, 986, 475, 14], [17, 998, 494, 98], [18, 1020, 507, 59], [19, 1001, 505, 47], [20, 982, 498, 55]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 903, 465, 0], [1, 945, 440, -63], [2, 990, 431, -72], [3, 1034, 440, -80], [4, 1067, 453, -82], [5, 1017, 420, 48], [6, 1062, 415, 30], [7, 1089, 416, 10], [8, 1113, 417, -3], [9, 1016, 447, 63], [10, 1053, 458, 0], [11, 1033, 461, -40], [12, 1010, 456, -44], [13, 1009, 473, 66], [14, 1037, 487, -8], [15, 1009, 483, -28], [16, 984, 474, -13], [17, 1000, 496, 65], [18, 1021, 507, 15], [19, 1001, 501, 8], [20, 980, 494, 21]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 904, 466, 0], [1, 943, 441, -64], [2, 990, 431, -76], [3, 1035, 440, -86], [4, 1066, 454, -90], [5, 1016, 419, 30], [6, 1062, 415, 6], [7, 1089, 416, -15], [8, 1114, 416, -31], [9, 1015, 446, 44], [10, 1049, 458, -22], [11, 1028, 461, -58], [12, 1009, 456, -62], [13, 1009, 473, 47], [14, 1037, 487, -27], [15, 1008, 482, -39], [16, 984, 472, -20], [17, 999, 496, 45], [18, 1018, 506, -5], [19, 998, 501, -9], [20, 981, 495, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 899, 461, 0], [1, 941, 454, -34], [2, 988, 448, -43], [3, 1028, 453, -55], [4, 1059, 457, -61], [5, 1008, 410, 14], [6, 1058, 413, -10], [7, 1088, 416, -26], [8, 1114, 417, -37], [9, 1006, 429, 13], [10, 1045, 464, -53], [11, 1019, 473, -77], [12, 998, 467, -73], [13, 1001, 453, 5], [14, 1033, 487, -63], [15, 1005, 487, -64], [16, 983, 478, -41], [17, 993, 476, -5], [18, 1018, 498, -47], [19, 1001, 500, -45], [20, 985, 495, -30]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 901, 464, 0], [1, 942, 437, -65], [2, 989, 428, -72], [3, 1033, 437, -77], [4, 1066, 453, -75], [5, 1014, 418, 53], [6, 1059, 413, 45], [7, 1087, 413, 30], [8, 1112, 413, 18], [9, 1013, 444, 72], [10, 1049, 453, 30], [11, 1044, 456, -5], [12, 1034, 453, -15], [13, 1006, 469, 78], [14, 1034, 484, 15], [15, 1009, 480, -11], [16, 985, 472, -5], [17, 998, 491, 80], [18, 1019, 502, 36], [19, 1001, 497, 23], [20, 981, 490, 28]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 904, 461, 0], [1, 944, 437, -58], [2, 991, 426, -68], [3, 1034, 435, -78], [4, 1065, 450, -82], [5, 1016, 415, 34], [6, 1060, 411, 12], [7, 1087, 412, -7], [8, 1111, 413, -21], [9, 1014, 442, 45], [10, 1049, 455, -19], [11, 1025, 458, -52], [12, 1002, 453, -51], [13, 1008, 469, 45], [14, 1035, 482, -24], [15, 1007, 478, -32], [16, 983, 470, -11], [17, 997, 492, 41], [18, 1019, 501, -3], [19, 999, 496, 0], [20, 980, 490, 17]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 904, 459, 0], [1, 943, 435, -64], [2, 988, 424, -77], [3, 1031, 433, -90], [4, 1061, 448, -95], [5, 1016, 413, 30], [6, 1061, 409, 4], [7, 1087, 409, -16], [8, 1110, 410, -29], [9, 1014, 440, 44], [10, 1049, 454, -28], [11, 1023, 455, -63], [12, 1001, 449, -60], [13, 1007, 466, 45], [14, 1033, 480, -28], [15, 1005, 476, -38], [16, 983, 468, -15], [17, 997, 488, 42], [18, 1017, 500, 0], [19, 999, 496, 1], [20, 984, 490, 20]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 903, 460, 0], [1, 943, 436, -68], [2, 987, 425, -83], [3, 1031, 432, -95], [4, 1064, 445, -102], [5, 1015, 412, 29], [6, 1060, 408, 2], [7, 1087, 408, -20], [8, 1112, 409, -36], [9, 1013, 439, 45], [10, 1048, 454, -30], [11, 1020, 457, -68], [12, 996, 451, -67], [13, 1007, 466, 49], [14, 1032, 481, -31], [15, 1002, 476, -43], [16, 978, 467, -20], [17, 998, 488, 48], [18, 1018, 500, 0], [19, 998, 495, 0], [20, 980, 489, 19]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 899, 458, 0], [1, 938, 433, -70], [2, 984, 423, -83], [3, 1028, 431, -92], [4, 1061, 443, -94], [5, 1012, 411, 23], [6, 1058, 407, 0], [7, 1086, 407, -17], [8, 1111, 408, -29], [9, 1011, 438, 42], [10, 1045, 451, -25], [11, 1022, 455, -58], [12, 999, 452, -57], [13, 1005, 464, 50], [14, 1030, 479, -23], [15, 1001, 475, -35], [16, 977, 467, -15], [17, 996, 486, 53], [18, 1017, 498, 5], [19, 998, 494, 1], [20, 979, 489, 16]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 898, 456, 0], [1, 940, 433, -70], [2, 986, 423, -80], [3, 1031, 433, -88], [4, 1063, 447, -89], [5, 1011, 409, 37], [6, 1057, 405, 15], [7, 1085, 405, -5], [8, 1110, 406, -19], [9, 1009, 436, 55], [10, 1045, 452, -14], [11, 1019, 453, -50], [12, 996, 447, -49], [13, 1003, 463, 60], [14, 1031, 478, -15], [15, 1001, 472, -28], [16, 978, 463, -8], [17, 993, 486, 60], [18, 1014, 497, 12], [19, 994, 491, 10], [20, 976, 484, 27]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 899, 455, 0], [1, 942, 429, -62], [2, 988, 420, -66], [3, 1032, 430, -70], [4, 1063, 445, -67], [5, 1012, 408, 56], [6, 1058, 404, 45], [7, 1085, 405, 28], [8, 1110, 406, 14], [9, 1009, 436, 73], [10, 1043, 448, 14], [11, 1020, 449, -27], [12, 999, 443, -33], [13, 1003, 463, 78], [14, 1031, 476, 9], [15, 1003, 471, -11], [16, 979, 461, 2], [17, 994, 486, 79], [18, 1014, 495, 32], [19, 994, 490, 24], [20, 975, 483, 36]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 896, 456, 0], [1, 935, 434, -75], [2, 981, 422, -88], [3, 1026, 428, -96], [4, 1060, 441, -98], [5, 1012, 408, 28], [6, 1057, 402, 3], [7, 1084, 402, -17], [8, 1109, 403, -31], [9, 1010, 435, 48], [10, 1047, 449, -23], [11, 1022, 452, -58], [12, 999, 448, -56], [13, 1003, 462, 54], [14, 1029, 476, -25], [15, 999, 471, -39], [16, 976, 462, -17], [17, 993, 483, 56], [18, 1014, 494, 4], [19, 993, 489, 2], [20, 974, 481, 19]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 890, 452, 0], [1, 934, 431, -80], [2, 982, 423, -91], [3, 1027, 430, -96], [4, 1061, 442, -93], [5, 1005, 405, 27], [6, 1054, 400, 10], [7, 1082, 401, -5], [8, 1108, 402, -18], [9, 1004, 432, 55], [10, 1039, 449, -5], [11, 1014, 452, -40], [12, 991, 448, -41], [13, 999, 458, 71], [14, 1027, 475, 1], [15, 998, 470, -16], [16, 975, 461, -2], [17, 991, 481, 81], [18, 1011, 493, 33], [19, 991, 487, 23], [20, 971, 478, 33]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 899, 453, 0], [1, 940, 427, -56], [2, 986, 416, -64], [3, 1029, 426, -73], [4, 1060, 441, -76], [5, 1012, 407, 43], [6, 1057, 402, 23], [7, 1084, 402, 3], [8, 1107, 403, -10], [9, 1011, 434, 53], [10, 1047, 444, -6], [11, 1030, 447, -43], [12, 1011, 443, -47], [13, 1004, 460, 52], [14, 1031, 473, -16], [15, 1005, 469, -32], [16, 981, 461, -16], [17, 994, 483, 47], [18, 1015, 493, 1], [19, 996, 488, -2], [20, 977, 481, 11]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 902, 452, 0], [1, 941, 427, -58], [2, 987, 418, -69], [3, 1030, 427, -80], [4, 1061, 439, -85], [5, 1012, 405, 29], [6, 1058, 400, 4], [7, 1086, 401, -17], [8, 1110, 402, -31], [9, 1011, 433, 39], [10, 1050, 445, -30], [11, 1027, 448, -65], [12, 1003, 444, -63], [13, 1005, 460, 39], [14, 1034, 474, -36], [15, 1006, 469, -47], [16, 980, 461, -24], [17, 994, 483, 34], [18, 1018, 494, -13], [19, 998, 488, -12], [20, 978, 481, 6]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 902, 449, 0], [1, 940, 423, -47], [2, 986, 412, -58], [3, 1027, 421, -71], [4, 1056, 436, -77], [5, 1012, 404, 21], [6, 1060, 399, -2], [7, 1088, 400, -19], [8, 1112, 400, -30], [9, 1012, 430, 26], [10, 1054, 444, -33], [11, 1033, 448, -60], [12, 1010, 445, -56], [13, 1007, 455, 23], [14, 1036, 472, -39], [15, 1009, 470, -42], [16, 986, 461, -19], [17, 997, 478, 16], [18, 1020, 492, -19], [19, 1003, 489, -13], [20, 984, 482, 5]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 906, 450, 0], [1, 943, 423, -62], [2, 987, 410, -76], [3, 1030, 416, -88], [4, 1059, 428, -94], [5, 1017, 401, 13], [6, 1062, 394, -15], [7, 1089, 394, -36], [8, 1113, 394, -49], [9, 1016, 428, 26], [10, 1053, 439, -45], [11, 1030, 445, -76], [12, 1007, 444, -72], [13, 1010, 453, 29], [14, 1036, 467, -50], [15, 1008, 464, -60], [16, 983, 458, -37], [17, 1000, 475, 27], [18, 1020, 487, -25], [19, 1003, 483, -28], [20, 985, 475, -12]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 901, 444, 0], [1, 940, 421, -71], [2, 988, 408, -83], [3, 1034, 412, -92], [4, 1067, 424, -93], [5, 1013, 394, 26], [6, 1059, 387, 5], [7, 1087, 387, -14], [8, 1113, 387, -28], [9, 1014, 420, 46], [10, 1050, 433, -18], [11, 1031, 439, -54], [12, 1012, 435, -55], [13, 1009, 446, 55], [14, 1035, 461, -18], [15, 1007, 458, -34], [16, 983, 450, -16], [17, 1001, 469, 58], [18, 1020, 481, 10], [19, 1001, 477, 4], [20, 982, 470, 18]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 914, 439, 0], [1, 954, 414, -75], [2, 999, 402, -86], [3, 1045, 408, -93], [4, 1078, 417, -93], [5, 1026, 382, 36], [6, 1073, 373, 15], [7, 1101, 372, -2], [8, 1127, 371, -13], [9, 1026, 409, 58], [10, 1065, 422, -9], [11, 1043, 428, -46], [12, 1020, 426, -44], [13, 1022, 438, 68], [14, 1049, 452, -8], [15, 1020, 450, -27], [16, 995, 443, -7], [17, 1015, 461, 73], [18, 1037, 473, 25], [19, 1018, 470, 20], [20, 999, 464, 37]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 913, 440, 0], [1, 954, 414, -81], [2, 1001, 403, -95], [3, 1048, 407, -104], [4, 1083, 415, -104], [5, 1025, 383, 24], [6, 1074, 375, 2], [7, 1105, 373, -16], [8, 1132, 373, -29], [9, 1026, 411, 51], [10, 1063, 425, -20], [11, 1037, 431, -60], [12, 1011, 429, -62], [13, 1023, 438, 66], [14, 1052, 453, -13], [15, 1022, 452, -33], [16, 994, 445, -17], [17, 1016, 461, 76], [18, 1039, 473, 24], [19, 1020, 471, 14], [20, 1000, 466, 27]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 912, 437, 0], [1, 959, 413, -99], [2, 1006, 402, -108], [3, 1052, 405, -107], [4, 1089, 414, -95], [5, 1026, 380, 45], [6, 1078, 372, 46], [7, 1110, 371, 35], [8, 1138, 371, 24], [9, 1024, 409, 91], [10, 1062, 424, 37], [11, 1037, 428, -10], [12, 1011, 424, -19], [13, 1019, 436, 124], [14, 1054, 453, 63], [15, 1029, 450, 24], [16, 1004, 442, 26], [17, 1014, 459, 150], [18, 1037, 473, 110], [19, 1028, 472, 86], [20, 1015, 466, 87]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 917, 434, 0], [1, 960, 408, -69], [2, 1007, 396, -82], [3, 1052, 400, -93], [4, 1086, 411, -96], [5, 1032, 377, 36], [6, 1079, 368, 12], [7, 1109, 367, -11], [8, 1136, 366, -29], [9, 1033, 406, 51], [10, 1074, 417, -17], [11, 1052, 422, -59], [12, 1028, 418, -63], [13, 1028, 434, 55], [14, 1062, 447, -20], [15, 1035, 444, -36], [16, 1008, 437, -19], [17, 1018, 458, 53], [18, 1042, 470, 3], [19, 1024, 466, -2], [20, 1003, 459, 10]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 915, 433, 0], [1, 958, 408, -81], [2, 1005, 394, -94], [3, 1053, 398, -101], [4, 1088, 406, -100], [5, 1032, 372, 31], [6, 1080, 364, 13], [7, 1110, 362, -4], [8, 1137, 361, -18], [9, 1032, 401, 58], [10, 1068, 416, -8], [11, 1041, 423, -46], [12, 1017, 420, -46], [13, 1027, 429, 73], [14, 1059, 444, 0], [15, 1031, 443, -18], [16, 1006, 436, -1], [17, 1018, 452, 81], [18, 1043, 465, 34], [19, 1028, 463, 27], [20, 1011, 457, 40]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 918, 427, 0], [1, 960, 400, -71], [2, 1008, 385, -84], [3, 1053, 388, -94], [4, 1086, 399, -96], [5, 1033, 367, 25], [6, 1082, 358, 1], [7, 1111, 356, -17], [8, 1138, 354, -31], [9, 1034, 395, 43], [10, 1073, 406, -23], [11, 1050, 412, -56], [12, 1027, 410, -55], [13, 1029, 422, 49], [14, 1060, 436, -24], [15, 1032, 435, -37], [16, 1006, 429, -17], [17, 1020, 445, 49], [18, 1045, 459, 0], [19, 1026, 455, -4], [20, 1006, 448, 9]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 912, 419, 0], [1, 956, 400, -50], [2, 1004, 386, -56], [3, 1050, 386, -59], [4, 1083, 392, -55], [5, 1020, 356, 18], [6, 1075, 349, 0], [7, 1107, 348, -13], [8, 1135, 346, -22], [9, 1022, 381, 33], [10, 1073, 398, -18], [11, 1052, 408, -41], [12, 1030, 406, -38], [13, 1020, 409, 40], [14, 1061, 427, -10], [15, 1036, 429, -13], [16, 1012, 424, 5], [17, 1014, 434, 43], [18, 1044, 450, 17], [19, 1029, 450, 19], [20, 1011, 445, 32]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 918, 422, 0], [1, 959, 393, -54], [2, 1007, 379, -65], [3, 1052, 384, -75], [4, 1085, 395, -78], [5, 1029, 359, 21], [6, 1079, 352, 2], [7, 1109, 350, -10], [8, 1135, 347, -19], [9, 1032, 386, 34], [10, 1069, 404, -30], [11, 1041, 411, -59], [12, 1016, 408, -54], [13, 1031, 415, 38], [14, 1058, 432, -25], [15, 1028, 433, -31], [16, 1004, 427, -10], [17, 1026, 440, 38], [18, 1045, 453, 6], [19, 1026, 452, 10], [20, 1010, 449, 28]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 917, 426, 0], [1, 959, 398, -75], [2, 1006, 384, -88], [3, 1052, 390, -98], [4, 1087, 402, -101], [5, 1031, 367, 31], [6, 1080, 359, 12], [7, 1110, 357, -5], [8, 1136, 356, -18], [9, 1032, 396, 54], [10, 1067, 410, -12], [11, 1041, 414, -50], [12, 1017, 411, -51], [13, 1028, 423, 65], [14, 1057, 438, -5], [15, 1028, 434, -22], [16, 1004, 427, -5], [17, 1021, 446, 71], [18, 1045, 458, 29], [19, 1027, 454, 26], [20, 1008, 448, 42]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 921, 428, 0], [1, 963, 403, -69], [2, 1010, 388, -84], [3, 1056, 394, -95], [4, 1089, 406, -99], [5, 1034, 371, 20], [6, 1085, 364, -2], [7, 1114, 362, -21], [8, 1140, 359, -33], [9, 1034, 399, 38], [10, 1075, 412, -28], [11, 1051, 415, -64], [12, 1028, 410, -64], [13, 1030, 426, 46], [14, 1062, 442, -22], [15, 1036, 440, -34], [16, 1013, 432, -14], [17, 1022, 450, 48], [18, 1046, 462, 8], [19, 1032, 461, 8], [20, 1017, 455, 24]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 924, 429, 0], [1, 970, 405, -72], [2, 1018, 394, -79], [3, 1064, 400, -79], [4, 1097, 410, -70], [5, 1037, 371, 41], [6, 1089, 364, 34], [7, 1120, 363, 23], [8, 1147, 362, 15], [9, 1037, 399, 70], [10, 1078, 416, 16], [11, 1054, 421, -22], [12, 1030, 418, -23], [13, 1034, 427, 90], [14, 1067, 445, 32], [15, 1041, 444, 10], [16, 1016, 436, 22], [17, 1028, 450, 104], [18, 1050, 465, 71], [19, 1036, 464, 62], [20, 1020, 459, 72]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 931, 430, 0], [1, 974, 405, -83], [2, 1020, 393, -96], [3, 1066, 397, -101], [4, 1101, 406, -98], [5, 1043, 369, 34], [6, 1093, 362, 21], [7, 1123, 359, 5], [8, 1150, 358, -7], [9, 1043, 398, 65], [10, 1086, 409, 4], [11, 1063, 414, -39], [12, 1039, 412, -44], [13, 1039, 427, 84], [14, 1075, 440, 14], [15, 1049, 439, -12], [16, 1023, 432, -2], [17, 1033, 450, 97], [18, 1056, 463, 51], [19, 1043, 462, 36], [20, 1026, 456, 43]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 931, 428, 0], [1, 976, 406, -89], [2, 1023, 395, -102], [3, 1068, 396, -107], [4, 1105, 403, -103], [5, 1044, 366, 25], [6, 1093, 357, 14], [7, 1124, 356, 0], [8, 1151, 354, -10], [9, 1044, 394, 60], [10, 1086, 407, 8], [11, 1066, 418, -28], [12, 1043, 418, -32], [13, 1041, 421, 84], [14, 1074, 437, 19], [15, 1049, 440, -6], [16, 1024, 434, 2], [17, 1035, 444, 101], [18, 1059, 458, 56], [19, 1043, 458, 41], [20, 1022, 451, 47]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 937, 425, 0], [1, 979, 400, -70], [2, 1026, 386, -82], [3, 1071, 389, -90], [4, 1105, 398, -91], [5, 1047, 364, 30], [6, 1094, 354, 9], [7, 1124, 352, -10], [8, 1150, 349, -25], [9, 1049, 392, 49], [10, 1088, 402, -10], [11, 1071, 410, -47], [12, 1052, 409, -52], [13, 1045, 419, 57], [14, 1077, 433, -11], [15, 1051, 433, -27], [16, 1027, 427, -13], [17, 1038, 442, 59], [18, 1061, 454, 15], [19, 1043, 452, 9], [20, 1022, 446, 20]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 935, 418, 0], [1, 981, 394, -66], [2, 1026, 381, -64], [3, 1069, 384, -58], [4, 1103, 393, -43], [5, 1040, 355, 65], [6, 1090, 347, 65], [7, 1122, 344, 51], [8, 1149, 342, 40], [9, 1040, 382, 95], [10, 1081, 398, 49], [11, 1060, 407, 4], [12, 1038, 404, -6], [13, 1038, 409, 112], [14, 1072, 426, 57], [15, 1048, 427, 22], [16, 1024, 420, 23], [17, 1034, 433, 126], [18, 1059, 447, 91], [19, 1043, 446, 75], [20, 1023, 440, 79]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 932, 419, 0], [1, 975, 395, -83], [2, 1021, 383, -92], [3, 1066, 385, -92], [4, 1102, 389, -81], [5, 1040, 356, 25], [6, 1091, 346, 20], [7, 1122, 342, 9], [8, 1149, 340, 0], [9, 1042, 383, 62], [10, 1083, 395, 15], [11, 1061, 403, -19], [12, 1037, 401, -23], [13, 1040, 411, 88], [14, 1075, 426, 33], [15, 1048, 426, 10], [16, 1022, 420, 18], [17, 1035, 434, 109], [18, 1059, 447, 73], [19, 1042, 447, 59], [20, 1023, 442, 65]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 931, 417, 0], [1, 977, 397, -85], [2, 1022, 384, -95], [3, 1067, 384, -96], [4, 1103, 385, -86], [5, 1040, 352, 23], [6, 1091, 344, 12], [7, 1122, 341, 0], [8, 1150, 339, -9], [9, 1041, 379, 60], [10, 1082, 397, 4], [11, 1058, 406, -30], [12, 1033, 405, -30], [13, 1040, 406, 87], [14, 1072, 424, 28], [15, 1047, 425, 7], [16, 1024, 419, 19], [17, 1035, 429, 107], [18, 1058, 444, 74], [19, 1044, 444, 65], [20, 1028, 438, 73]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 930, 412, 0], [1, 974, 387, -59], [2, 1021, 374, -63], [3, 1066, 377, -64], [4, 1100, 385, -57], [5, 1038, 351, 42], [6, 1090, 342, 38], [7, 1120, 339, 29], [8, 1148, 336, 22], [9, 1040, 376, 65], [10, 1085, 392, 19], [11, 1062, 402, -12], [12, 1038, 400, -13], [13, 1039, 403, 78], [14, 1074, 421, 28], [15, 1047, 424, 12], [16, 1024, 418, 23], [17, 1035, 427, 88], [18, 1059, 442, 62], [19, 1042, 442, 59], [20, 1023, 438, 69]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 929, 410, 0], [1, 974, 392, -81], [2, 1019, 379, -89], [3, 1063, 378, -85], [4, 1099, 382, -72], [5, 1035, 347, 18], [6, 1088, 340, 13], [7, 1119, 337, 3], [8, 1146, 335, -3], [9, 1037, 373, 58], [10, 1081, 389, 12], [11, 1058, 399, -18], [12, 1034, 398, -19], [13, 1036, 401, 87], [14, 1071, 418, 36], [15, 1045, 420, 14], [16, 1022, 414, 22], [17, 1034, 425, 110], [18, 1058, 440, 80], [19, 1041, 440, 67], [20, 1025, 436, 71]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 933, 413, 0], [1, 978, 388, -82], [2, 1023, 374, -92], [3, 1069, 376, -95], [4, 1104, 386, -88], [5, 1042, 349, 36], [6, 1090, 341, 28], [7, 1120, 337, 14], [8, 1147, 335, 3], [9, 1042, 376, 71], [10, 1079, 393, 12], [11, 1054, 401, -29], [12, 1029, 399, -32], [13, 1040, 403, 94], [14, 1071, 420, 34], [15, 1048, 420, 10], [16, 1026, 414, 20], [17, 1036, 426, 112], [18, 1058, 440, 78], [19, 1047, 440, 68], [20, 1034, 435, 76]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 935, 413, 0], [1, 977, 386, -52], [2, 1024, 372, -65], [3, 1070, 379, -78], [4, 1104, 392, -85], [5, 1040, 350, 23], [6, 1091, 343, 1], [7, 1122, 341, -17], [8, 1148, 339, -30], [9, 1042, 376, 33], [10, 1086, 395, -23], [11, 1064, 402, -53], [12, 1044, 398, -54], [13, 1040, 403, 34], [14, 1075, 422, -17], [15, 1052, 422, -21], [16, 1033, 414, -5], [17, 1034, 427, 30], [18, 1062, 444, 8], [19, 1047, 442, 16], [20, 1031, 435, 33]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 946, 420, 0], [1, 987, 395, -68], [2, 1032, 380, -80], [3, 1077, 383, -89], [4, 1110, 396, -90], [5, 1053, 358, 36], [6, 1099, 349, 16], [7, 1128, 347, -3], [8, 1153, 346, -17], [9, 1054, 384, 54], [10, 1093, 402, -7], [11, 1069, 406, -43], [12, 1046, 402, -43], [13, 1050, 411, 61], [14, 1082, 429, 0], [15, 1057, 427, -11], [16, 1037, 419, 4], [17, 1042, 434, 62], [18, 1067, 450, 31], [19, 1052, 447, 31], [20, 1036, 440, 44]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 946, 422, 0], [1, 989, 396, -76], [2, 1034, 383, -86], [3, 1081, 388, -92], [4, 1116, 401, -89], [5, 1054, 363, 57], [6, 1102, 354, 54], [7, 1131, 352, 40], [8, 1158, 351, 28], [9, 1054, 391, 87], [10, 1093, 404, 37], [11, 1070, 410, -5], [12, 1045, 408, -11], [13, 1051, 418, 107], [14, 1084, 432, 54], [15, 1059, 431, 28], [16, 1034, 424, 36], [17, 1044, 441, 120], [18, 1068, 451, 93], [19, 1055, 450, 85], [20, 1037, 446, 94]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 947, 422, 0], [1, 992, 399, -85], [2, 1036, 388, -94], [3, 1082, 392, -93], [4, 1118, 402, -84], [5, 1055, 363, 49], [6, 1104, 356, 50], [7, 1135, 353, 38], [8, 1161, 352, 27], [9, 1054, 390, 88], [10, 1097, 404, 47], [11, 1082, 409, 5], [12, 1060, 407, -2], [13, 1049, 417, 114], [14, 1083, 433, 69], [15, 1065, 432, 39], [16, 1045, 425, 42], [17, 1041, 439, 133], [18, 1065, 454, 110], [19, 1060, 454, 96], [20, 1051, 449, 100]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 968, 440, 0], [1, 1005, 410, -60], [2, 1052, 392, -75], [3, 1098, 398, -88], [4, 1131, 410, -94], [5, 1079, 378, 22], [6, 1127, 368, -4], [7, 1157, 366, -25], [8, 1183, 365, -39], [9, 1081, 407, 34], [10, 1121, 416, -37], [11, 1096, 421, -71], [12, 1072, 418, -67], [13, 1078, 435, 35], [14, 1105, 447, -36], [15, 1076, 446, -42], [16, 1053, 440, -17], [17, 1070, 461, 31], [18, 1093, 471, -5], [19, 1075, 469, 1], [20, 1059, 464, 23]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+First Left hand at 180 degrees
+Thumb is Closed
+Index finger is Opened
+Middle finger is Closed
+Ring finger is Closed
+Little finger is Closed
+HandLandMarks: [[0, 967, 467, 0], [1, 998, 429, -41], [2, 1044, 405, -59], [3, 1086, 404, -82], [4, 1118, 414, -103], [5, 1078, 411, 2], [6, 1123, 396, -42], [7, 1155, 394, -76], [8, 1181, 395, -99], [9, 1082, 438, -5], [10, 1120, 434, -80], [11, 1095, 437, -107], [12, 1066, 440, -102], [13, 1079, 466, -21], [14, 1110, 462, -88], [15, 1084, 460, -77], [16, 1057, 460, -47], [17, 1072, 492, -42], [18, 1098, 488, -75], [19, 1081, 481, -57], [20, 1060, 477, -31]]
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
+No hand at None degrees
+Thumb is None
+Index finger is None
+Middle finger is None
+Ring finger is None
+Little finger is None
+HandLandMarks: []
